@@ -1,0 +1,1571 @@
+<!doctype html>
+<html lang="ru" data-shrift="a">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://thebodymindcode.ru/protokol2/">
+<title>Протокол остановки ума · 28 дней, чтобы в голове стало тихо · Дарья Ростовцева</title>
+<meta name="description" content="Тренировка внимания на 28 дней по 15-20 минут: голос Дарьи Ростовцевой, личный кабинет, который открывает день сам, замер до и после, пять книг, доступ навсегда. В основе 67 исследований с автором, годом и журналом. Старт потока 3 октября.">
+<meta property="og:title" content="Протокол остановки ума">
+<meta property="og:description" content="28 дней по 15-20 минут, чтобы в голове стало тихо. Кабинет ведёт по дням, результат виден цифрой, 67 исследований в основе. Старт 3 октября.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://thebodymindcode.ru/protokol2/img2/og-3okt-b.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Архитектура сознания">
+<meta property="og:locale" content="ru_RU">
+<meta property="og:url" content="https://thebodymindcode.ru/protokol2/">
+<meta name="twitter:title" content="Протокол остановки ума">
+<meta name="twitter:description" content="28 дней по 15-20 минут, чтобы в голове стало тихо. Кабинет ведёт по дням, результат виден цифрой. Старт 3 октября.">
+<meta name="twitter:image" content="https://thebodymindcode.ru/protokol2/img2/og-3okt-b.jpg">
+<link rel="icon" href="img2/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="img2/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="img2/apple-touch-icon.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#0A1F22">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="img2/k3-progress.webp">
+<style>
+:root{
+ --bg:#0A1F22;--bg2:#0F2A2E;--bg3:#173B40;--bg4:#1E484D;--line:rgba(234,241,239,.1);--line2:rgba(234,241,239,.18);
+ --ink:#EAF1EF;--body:#C2D2CE;--mute:#88A29D;--dim:#5F7B77;
+ --amber:#D99A3E;--amber-l:#F0C27A;--amber-d:#B57C24;--teal:#4FB3A9;--teal-l:#8FD6CE;--sage:#7FA39B;--rose:#D07A6A;
+ --mist:#F4F6F5;--paper:#FFFFFF;--dark-ink:#12201F;--dark-body:#3E4F4E;--dark-mute:#5F7573;
+ --ft:'Unbounded',sans-serif;--fb:'Manrope',-apple-system,BlinkMacSystemFont,sans-serif;
+ --ls:-.02em;--hw:600;
+ --pad:clamp(20px,4vw,56px);--w:1240px;--r:22px;--r-lg:30px;--ease:cubic-bezier(.2,.8,.2,1);
+ --glow-a:0 0 80px rgba(217,154,62,.25);--sh:0 30px 80px rgba(0,0,0,.45)}
+[data-shrift="b"]{--ft:'Manrope',sans-serif;--ls:-.035em;--hw:800}
+[data-shrift="c"]{--ft:'Playfair Display',Georgia,serif;--ls:-.01em;--hw:600}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{font-family:var(--fb);background:var(--bg);color:var(--body);font-size:17px;line-height:1.6;text-wrap:pretty;-webkit-font-smoothing:antialiased;overflow-x:hidden;position:relative}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:0;opacity:.055;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+img{max-width:100%;height:auto;display:block}
+a{color:inherit}
+button{font-family:inherit}
+h1,h2,h3,.h{font-family:var(--ft);font-weight:var(--hw);letter-spacing:var(--ls);color:var(--ink);line-height:1.08;text-wrap:balance}
+h2{font-size:clamp(30px,4.2vw,52px);margin-bottom:20px}
+h3{font-size:clamp(19px,1.7vw,23px);line-height:1.2;margin-bottom:8px}
+p{text-wrap:pretty}
+.wrap{max-width:var(--w);margin:0 auto;padding-inline:var(--pad);position:relative;z-index:1}
+.sec{position:relative;overflow:hidden;padding-block:clamp(80px,10vw,150px)}
+.sec.b2{background:var(--bg2)}.sec.b3{background:linear-gradient(180deg,var(--bg2),var(--bg))}
+.sec.light{background:var(--mist);color:var(--dark-body)}
+.sec.light h2,.sec.light h3,.sec.light .h{color:var(--dark-ink)}
+.glow{position:absolute;border-radius:50%;filter:blur(90px);pointer-events:none;opacity:.55}
+.glow.a{background:rgba(217,154,62,.28)}.glow.t{background:rgba(79,179,169,.22)}
+.kicker{display:inline-flex;align-items:center;gap:12px;font-size:12px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:var(--amber-l);margin-bottom:22px}
+.kicker::before{content:"";width:26px;height:2px;background:currentColor;border-radius:2px}
+.light .kicker{color:var(--amber-d)}
+.lead{font-size:clamp(18px,1.5vw,21px);line-height:1.55;color:var(--body);max-width:700px}
+.light .lead{color:var(--dark-body)}
+.head{max-width:860px;margin-bottom:clamp(40px,5vw,72px)}
+.src{font-size:13px;color:var(--mute);line-height:1.5;margin-top:14px}
+.light .src{color:var(--dark-mute)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:58px;padding:0 32px;border-radius:999px;font-weight:700;font-size:16px;text-decoration:none;border:0;cursor:pointer;transition:transform .25s var(--ease),box-shadow .25s var(--ease),background .25s}
+.btn-a{background:linear-gradient(135deg,var(--amber-l),var(--amber));color:#1B1206;box-shadow:0 12px 34px rgba(217,154,62,.35)}
+.btn-a:hover{transform:translateY(-2px);box-shadow:0 18px 44px rgba(217,154,62,.5)}
+.btn-g{background:rgba(234,241,239,.04);color:var(--ink);border:1.5px solid var(--line2)}
+.btn-g:hover{background:rgba(234,241,239,.09)}
+.btn svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2}
+.rv{opacity:0;transform:translateY(30px);transition:opacity .9s var(--ease),transform .9s var(--ease)}
+.rv.in{opacity:1;transform:none}
+.rv.d1{transition-delay:.12s}.rv.d2{transition-delay:.24s}.rv.d3{transition-delay:.36s}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}*{animation:none!important}}
+.tbar{position:relative;z-index:3;background:#6E2A1C;color:#fff;font-size:13px;padding:8px var(--pad);font-weight:600;display:flex;justify-content:center;gap:24px;flex-wrap:wrap;align-items:center}
+.shrifty button{background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.3);color:#fff;border-radius:6px;padding:2px 9px;margin-left:4px;cursor:pointer;font-weight:700}
+.shrifty button.on{background:#fff;color:#6E2A1C}
+/* иконки */
+.ik{width:52px;height:52px;border-radius:16px;display:grid;place-items:center;background:linear-gradient(145deg,rgba(217,154,62,.22),rgba(217,154,62,.06));border:1px solid rgba(217,154,62,.25);color:var(--amber-l);margin-bottom:18px;flex:none}
+.ik svg,.ic{width:26px;height:26px;fill:none;stroke:currentColor;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.ik.t{background:linear-gradient(145deg,rgba(79,179,169,.22),rgba(79,179,169,.05));border-color:rgba(79,179,169,.3);color:var(--teal-l)}
+.light .ik{background:linear-gradient(145deg,rgba(217,154,62,.18),rgba(217,154,62,.04));color:var(--amber-d)}
+/* карточки */
+.card{background:linear-gradient(160deg,rgba(234,241,239,.07),rgba(234,241,239,.025));border:1px solid var(--line);border-radius:var(--r);padding:30px;position:relative;overflow:hidden;transition:transform .35s var(--ease),border-color .35s}
+.card:hover{transform:translateY(-4px);border-color:var(--line2)}
+.card p{font-size:15.5px;line-height:1.55}
+.card.pale{background:var(--paper);border-color:#E2E8E6;color:var(--dark-body)}
+.card.pale h3,.card.pale .num{color:var(--dark-ink)}
+.grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:22px}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.grid4{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+.split{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:clamp(36px,6vw,96px);align-items:center}
+.num{font-family:var(--ft);font-weight:var(--hw);letter-spacing:var(--ls);font-size:clamp(46px,5vw,72px);line-height:1;color:var(--ink);margin-bottom:12px}
+.num small{font-size:.45em;color:var(--amber-l);margin-left:4px}
+.big{font-family:var(--ft);font-weight:var(--hw);letter-spacing:-.03em;font-size:clamp(72px,10vw,150px);line-height:.9;color:var(--ink)}
+.big small{font-size:.38em;color:var(--amber-l)}
+.ins{display:grid;grid-template-columns:auto 1fr;gap:24px;align-items:center}
+.tag{display:inline-block;font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;padding:6px 12px;border-radius:999px;background:rgba(217,154,62,.14);color:var(--amber-l);border:1px solid rgba(217,154,62,.3)}
+.tag.t{background:rgba(79,179,169,.14);color:var(--teal-l);border-color:rgba(79,179,169,.3)}
+.nav{position:absolute;top:0;left:0;right:0;z-index:5}
+.nav > .wrap{display:flex;align-items:center;justify-content:space-between;height:88px}
+.logo{display:flex;align-items:center;gap:10px;color:var(--ink);font-family:var(--ft);font-weight:var(--hw);font-size:15px;letter-spacing:.02em;text-decoration:none;min-height:44px}
+.logo i{width:24px;height:24px;border-radius:50%;border:1.5px solid var(--amber);display:grid;place-items:center}
+.logo i::after{content:"";width:8px;height:8px;border-radius:50%;background:var(--amber)}
+.nav .btn{min-height:46px;padding:0 22px;font-size:14px}
+.hero{position:relative;overflow:hidden;background:radial-gradient(1100px 600px at 75% 20%,#1E4A4F 0%,var(--bg2) 45%,var(--bg) 100%);padding-top:88px;min-height:100svh}
+#pole{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;opacity:.9}
+.hero > .wrap{display:grid;grid-template-columns:1.05fr .95fr;gap:40px;align-items:center;min-height:calc(100svh - 88px);padding-block:40px 90px}
+.hero h1{font-size:clamp(40px,5.6vw,80px);line-height:1;margin:8px 0 22px}
+.hero h1 em{display:block;font-style:normal;color:var(--amber-l);font-size:.62em;margin-top:16px;line-height:1.1}
+[data-shrift="c"] .hero h1 em{font-style:italic}
+.hero .lead{margin-bottom:30px}
+.meta{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:34px}
+.meta b{font-weight:600;font-size:14px;color:var(--ink);background:rgba(234,241,239,.06);border:1px solid var(--line);padding:9px 15px;border-radius:999px;display:inline-flex;gap:8px;align-items:center}
+.meta b svg{width:16px;height:16px;fill:none;stroke:var(--amber-l);stroke-width:1.8}
+.meta b.st{background:rgba(217,154,62,.16);border-color:rgba(217,154,62,.4);color:var(--amber-l)}
+.cta-row{display:flex;flex-wrap:wrap;gap:14px}
+.hero-vis{position:relative;display:flex;justify-content:center;perspective:1500px;min-height:560px}
+.hero-vis .phone{transform:rotateY(-14deg) rotateX(6deg) rotateZ(2deg);animation:plyv 7s ease-in-out infinite}
+@keyframes plyv{0%,100%{translate:0 0}50%{translate:0 -14px}}
+.ring{position:absolute;border-radius:50%;border:1px solid rgba(240,194,122,.18);animation:ring 9s linear infinite}
+.ring.r1{width:420px;height:420px;top:12%;left:8%}.ring.r2{width:600px;height:600px;top:-6%;left:-10%;animation-duration:14s;animation-direction:reverse;border-style:dashed;opacity:.6}
+@keyframes ring{to{transform:rotate(360deg)}}
+.float{position:absolute;background:rgba(255,255,255,.97);color:var(--dark-ink);border-radius:18px;box-shadow:var(--sh);padding:14px 18px;font-size:13px;line-height:1.35;animation:plyv 8s ease-in-out infinite;z-index:3}
+.float b{display:block;font-family:var(--ft);font-weight:var(--hw);font-size:26px;line-height:1;color:var(--bg2);margin-bottom:4px}
+.float small{color:var(--dark-mute);font-size:12.5px}
+.f1{left:0;top:14%;animation-delay:-2s}.f2{right:0;bottom:12%;animation-delay:-4s}
+.f2 .dots{display:flex;gap:4px;margin-top:8px}.f2 .dots i{width:10px;height:10px;border-radius:3px;background:var(--amber)}.f2 .dots i.o{background:#E4EAE8}
+.phone{position:relative;width:min(300px,72vw);aspect-ratio:390/844;border-radius:46px;background:#0B1618;padding:11px;box-shadow:0 0 0 1.5px #2A3B3D,0 40px 90px rgba(0,0,0,.55),0 10px 24px rgba(0,0,0,.3);flex:none;overflow:hidden}
+.phone::before{content:"";position:absolute;left:11px;right:11px;top:11px;height:40px;border-radius:36px 36px 0 0;background:#F4F6F5;z-index:1}
+.phone.dk::before{background:#0F2A2E}
+.phone::after{content:"";position:absolute;top:21px;left:50%;translate:-50% 0;width:30%;height:20px;border-radius:12px;background:#0B1618;z-index:2}
+.phone img{position:relative;width:100%;margin-top:30px;height:calc(100% - 30px);object-fit:cover;object-position:top;border-radius:0 0 36px 36px}
+.strip{background:var(--bg);border-top:1px solid var(--line);border-bottom:1px solid var(--line);position:relative;z-index:2}
+.strip > .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:0}
+.strip > .wrap > div{padding:40px 28px 40px 0;border-right:1px solid var(--line)}
+.strip > .wrap > div:last-child{border-right:0}
+.strip > .wrap > div + div{padding-left:28px}
+.strip b{display:block;font-family:var(--ft);font-weight:var(--hw);letter-spacing:var(--ls);font-size:clamp(38px,4vw,56px);color:var(--ink);line-height:1}
+.strip b small{font-size:.5em;color:var(--amber-l)}
+.strip span{display:block;font-size:14px;line-height:1.45;margin-top:12px;color:var(--mute);max-width:230px}
+/* чек-лист */
+.chk{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.chk label{display:flex;gap:16px;align-items:flex-start;padding:22px 22px 22px 20px;border-radius:18px;background:rgba(234,241,239,.04);border:1px solid var(--line);cursor:pointer;transition:.3s var(--ease);font-size:15.5px;line-height:1.5;color:var(--body);min-height:44px}
+.chk label:hover{background:rgba(234,241,239,.07)}
+.chk input{position:absolute;opacity:0;width:0;height:0}
+.chk .box{flex:none;width:26px;height:26px;border-radius:8px;border:1.5px solid var(--line2);display:grid;place-items:center;margin-top:1px;transition:.3s}
+.chk .box svg{width:16px;height:16px;fill:none;stroke:#1B1206;stroke-width:2.4;opacity:0;transform:scale(.5);transition:.25s}
+.chk input:checked ~ .box{background:var(--amber);border-color:var(--amber)}
+.chk input:checked ~ .box svg{opacity:1;transform:none}
+.chk input:checked ~ span{color:var(--ink)}
+.chk label:has(input:checked){border-color:rgba(217,154,62,.45);background:rgba(217,154,62,.08)}
+.chk-res{margin-top:26px;display:flex;gap:22px;align-items:center;padding:24px 28px;border-radius:20px;background:linear-gradient(135deg,rgba(217,154,62,.16),rgba(217,154,62,.04));border:1px solid rgba(217,154,62,.3)}
+.chk-res .n{font-family:var(--ft);font-weight:var(--hw);font-size:52px;line-height:1;color:var(--amber-l);min-width:90px}
+.chk-res .n small{font-size:.4em;color:var(--mute)}
+.chk-res p{font-size:16px;color:var(--ink)}
+.hero-bg{position:absolute;inset:0;overflow:hidden;pointer-events:none}
+.hero-bg img{position:absolute;right:-6%;top:50%;translate:0 -50%;width:min(1100px,86vw);height:auto;opacity:.55;filter:saturate(1.1);mask-image:radial-gradient(60% 60% at 62% 50%,#000 40%,transparent 100%);-webkit-mask-image:radial-gradient(60% 60% at 62% 50%,#000 40%,transparent 100%)}
+@media (max-width:1080px){.hero-bg img{width:140vw;right:-40%;top:38%;opacity:.4}}
+/* сеть покоя */
+.dmn{display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(30px,5vw,80px);align-items:center}
+.dmn-vis{position:relative;background:radial-gradient(400px 300px at 50% 50%,rgba(79,179,169,.12),transparent 70%);border-radius:var(--r-lg);border:1px solid var(--line);padding:24px}
+.dmn-vis svg{width:100%;height:auto;display:block}
+.dmn-vis .node{fill:var(--teal);opacity:.35;transition:opacity .8s,r .8s}
+.dmn-vis .edge{stroke:var(--teal);stroke-width:1;opacity:.15;transition:opacity .8s}
+.dmn-vis.on .node{opacity:1;filter:drop-shadow(0 0 8px rgba(79,179,169,.9))}
+.dmn-vis.on .edge{opacity:.6;stroke-dasharray:4 6;animation:dash 2s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-20}}
+.dmn-vis .node.a{fill:var(--amber)}
+.dmn-vis.on .node.a{filter:drop-shadow(0 0 10px rgba(217,154,62,.9))}
+.dmn-vis .halo{fill:none;stroke:var(--amber);stroke-width:1;opacity:0}
+.dmn-vis.on .halo{opacity:.5;animation:halo 2.4s ease-out infinite}
+@keyframes halo{0%{r:6;opacity:.6}100%{r:26;opacity:0}}
+.sw{display:inline-flex;background:rgba(234,241,239,.06);border:1px solid var(--line);border-radius:999px;padding:4px;gap:4px;margin:0 0 22px}
+.sw button{border:0;background:transparent;color:var(--mute);padding:10px 20px;border-radius:999px;font-weight:700;font-size:14px;cursor:pointer;min-height:44px;transition:.3s}
+.sw button.on{background:var(--ink);color:var(--bg)}
+.dmn-lbl{position:absolute;left:24px;bottom:24px;display:flex;gap:10px;align-items:center;font-size:13px;color:var(--mute)}
+.dmn-lbl i{width:10px;height:10px;border-radius:50%;background:var(--teal);box-shadow:0 0 10px var(--teal)}
+/* поле точек */
+.tochki{display:grid;grid-template-columns:repeat(40,1fr);gap:5px;max-width:720px}
+.tochki i{aspect-ratio:1;border-radius:50%;background:rgba(234,241,239,.16);transition:background .6s,transform .6s}
+.tochki i.a{background:var(--amber);transform:scale(1.15);box-shadow:0 0 6px rgba(217,154,62,.6);animation:lampa 3.2s ease-in-out infinite}
+@keyframes lampa{0%,100%{opacity:1}50%{opacity:.62}}
+.tochki i.a:nth-child(3n){animation-delay:-1.1s}.tochki i.a:nth-child(5n){animation-delay:-2.2s}.tochki i.a:nth-child(7n){animation-duration:2.4s}
+.legend{display:flex;gap:22px;flex-wrap:wrap;margin-top:18px;font-size:14px;color:var(--mute)}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:50%;vertical-align:-1px;margin-right:8px;background:rgba(234,241,239,.16)}
+.legend i.a{background:var(--amber)}
+/* повторения внимания */
+.reps{position:relative;height:280px;border-radius:var(--r-lg);border:1px solid var(--line);background:linear-gradient(180deg,rgba(234,241,239,.04),transparent);overflow:hidden}
+.reps svg{width:100%;height:100%}
+.reps .target{fill:none;stroke:var(--amber-l);stroke-width:1.5;stroke-dasharray:3 5;opacity:.7}
+.reps .ball{fill:var(--amber);filter:drop-shadow(0 0 12px rgba(217,154,62,.8))}
+.reps .trail{fill:none;stroke:var(--amber);stroke-width:2;opacity:.35}
+.reps .cnt{position:absolute;right:24px;top:20px;text-align:right}
+.reps .cnt b{display:block;font-family:var(--ft);font-weight:var(--hw);font-size:44px;line-height:1;color:var(--ink)}
+.reps .cnt span{font-size:13px;color:var(--mute)}
+.reps .lbl{position:absolute;left:24px;bottom:18px;font-size:13px;color:var(--mute)}
+/* столбики */
+.bars{display:flex;gap:18px;align-items:flex-end;height:220px;padding:0 6px}
+.bars div{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;gap:10px;height:100%}
+.bars i{display:block;width:100%;border-radius:10px 10px 4px 4px;background:linear-gradient(180deg,rgba(234,241,239,.35),rgba(234,241,239,.12));transform-origin:bottom;transform:scaleY(0);transition:transform 1.2s var(--ease)}
+.in .bars i{transform:none}
+.bars i.a{background:linear-gradient(180deg,var(--amber-l),var(--amber))}
+.bars i.r{background:linear-gradient(180deg,rgba(208,122,106,.9),rgba(208,122,106,.5))}
+.bars span{font-size:12.5px;color:var(--mute);text-align:center;line-height:1.3;height:34px}
+.bars b{font-family:var(--ft);font-size:15px;color:var(--ink);font-weight:var(--hw)}
+/* кривая удержания */
+.curve{position:relative;border-radius:var(--r-lg);border:1px solid var(--line);padding:26px 26px 18px;background:linear-gradient(180deg,rgba(234,241,239,.04),transparent)}
+.curve svg{width:100%;height:auto;display:block}
+.curve .ln{fill:none;stroke:var(--rose);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:1000;stroke-dashoffset:1000;transition:stroke-dashoffset 2.4s var(--ease)}
+.in .curve .ln{stroke-dashoffset:0}
+.curve .ar{fill:url(#gr-rose);opacity:0;transition:opacity 1.5s 1s}
+.in .curve .ar{opacity:1}
+.curve .pt{fill:var(--ink);opacity:0;transition:opacity .5s}
+.in .curve .pt{opacity:1}
+.curve text{font-family:var(--fb);fill:var(--mute);font-size:12px}
+.curve text.b{fill:var(--ink);font-weight:700;font-size:13px}
+.curve .cap{font-size:12.5px;color:var(--mute);margin-top:6px}
+.curve .grid{stroke:var(--line);stroke-width:1}
+/* шкала привычки */
+.habit{position:relative;padding:50px 0 10px}
+.habit .track{height:14px;border-radius:7px;background:rgba(234,241,239,.08);position:relative;overflow:visible}
+.habit .rng{position:absolute;left:0;top:0;height:100%;border-radius:7px;background:linear-gradient(90deg,rgba(79,179,169,.25),rgba(79,179,169,.55));width:0;transition:width 2s var(--ease)}
+.in .habit .rng{width:100%}
+.habit .med{position:absolute;top:-6px;height:26px;border-radius:6px;background:var(--amber);box-shadow:0 0 18px rgba(217,154,62,.7);opacity:0;transition:opacity .6s 1.6s}
+.in .habit .med{opacity:1}
+.habit .mk{position:absolute;top:72px;font-size:12.5px;color:var(--mute);transform:translateX(-50%);white-space:nowrap}
+.habit .mk b{display:block;font-family:var(--ft);font-size:15px;color:var(--ink);font-weight:var(--hw)}
+.habit .mk.a b{color:var(--amber-l)}
+.habit .mk.x{opacity:0;transition:opacity .6s 1.8s}
+.in .habit .mk.x{opacity:1}
+.habit .old{position:absolute;top:0;font-size:12.5px;color:var(--rose);transform:translateX(-50%);white-space:nowrap}
+.habit .old::after{content:"";position:absolute;left:50%;top:100%;width:1px;height:26px;background:var(--rose)}
+.habit .mk:last-child{left:auto!important;right:0;transform:none;text-align:right}
+.cstat{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:22px 0 4px}
+.cstat div{padding:16px 14px;border-radius:14px;background:rgba(234,241,239,.05);border:1px solid var(--line)}
+.cstat b{display:block;font-family:var(--ft);font-weight:var(--hw);font-size:30px;line-height:1;color:var(--ink);margin-bottom:8px}
+.cstat b small{font-size:.5em;color:var(--rose)}
+.cstat span{font-size:12.5px;color:var(--mute);line-height:1.35}
+/* мозг v3 */
+.brainwrap{display:grid;grid-template-columns:1.15fr .85fr;gap:clamp(28px,4vw,60px);align-items:center}
+.brainbox{position:relative;border-radius:var(--r-lg);border:1px solid var(--line);background:radial-gradient(70% 70% at 50% 45%,rgba(79,179,169,.12),transparent 70%),linear-gradient(180deg,rgba(234,241,239,.03),transparent);padding:22px 22px 70px;overflow:hidden}
+.brainbox canvas{width:100%;height:auto;display:block}
+.labels{position:absolute;inset:22px 22px 70px;pointer-events:none}
+.bl{position:absolute;transform:translate(-8px,-100%);font-size:12px;font-weight:700;letter-spacing:.04em;color:var(--ink);background:rgba(10,31,34,.85);border:1px solid rgba(240,194,122,.45);padding:5px 9px;border-radius:8px;white-space:nowrap;animation:blin .6s var(--ease) both}
+.bl.ctl{border-color:rgba(143,214,206,.5)}
+.bl.r{transform:translate(8px,-100%)}
+.bl::after{content:"";position:absolute;left:8px;top:100%;width:1px;height:var(--h,26px);background:currentColor;opacity:.5}
+.bl.r::after{left:auto;right:8px}
+@keyframes blin{from{opacity:0;translate:0 6px}to{opacity:1}}
+.meterbox{position:absolute;left:22px;right:22px;bottom:22px;display:flex;align-items:center;gap:14px;font-size:12.5px;color:var(--mute)}
+.meter{flex:1;height:6px;border-radius:3px;background:rgba(234,241,239,.08);overflow:hidden}
+.meter i{display:block;height:100%;width:0;border-radius:3px;background:linear-gradient(90deg,var(--teal),var(--amber-l));transition:width .4s}
+.sw.v{flex-wrap:wrap}
+/* внимание v3 */
+.vnim{position:relative;display:flex;align-items:center;border-radius:var(--r-lg);border:1px solid var(--line);background:linear-gradient(180deg,rgba(234,241,239,.04),transparent);overflow:hidden;padding:0}
+.vnim canvas{width:100%;height:auto;display:block}
+.vnim .cnt{position:absolute;right:24px;top:20px;text-align:right}
+.vnim .cnt b{display:block;font-family:var(--ft);font-weight:var(--hw);font-size:44px;line-height:1;color:var(--ink)}
+.vnim .cnt span{font-size:13px;color:var(--mute)}
+.vnim .lbl{position:absolute;left:24px;bottom:18px;font-size:13px;color:var(--mute)}
+@media (max-width:1080px){.brainwrap{grid-template-columns:1fr}}
+@media (max-width:680px){.bl{font-size:12px;padding:4px 7px;white-space:normal;max-width:170px;line-height:1.25;text-align:left;text-wrap:balance}.bl.r,.bl.b{text-align:right}.bl.l.b{text-align:left}.bl::after{height:calc(var(--h,26px) * .54)}.sw.v{display:grid;grid-template-columns:1fr 1fr;width:100%}.sw.v button:last-child{grid-column:1/-1}.sw.v button{padding-inline:10px}.brainbox{padding:14px 14px 62px}.labels{inset:14px 14px 62px}.meterbox{left:14px;right:14px;bottom:16px}.vnim .cnt b{font-size:34px}}
+.lyudi{display:grid;grid-template-columns:repeat(25,1fr);gap:5px;margin-top:22px}
+.lyudi i{aspect-ratio:1;border-radius:3px;background:var(--rose);opacity:.85;transition:opacity .6s,background .6s}
+.lyudi i.g{opacity:.12;background:var(--ink)}
+.bl.b{transform:translate(8px,0)}
+.bl.b::after{top:auto;bottom:100%;left:auto;right:8px}
+.bl.l.b{transform:translate(-8px,0)}.bl.l.b::after{left:8px;right:auto}
+.vs-sw{display:flex;justify-content:center;margin-bottom:40px}
+.vs-sw .sw{margin:0}
+.vs-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;perspective:1600px}
+.vs-grid.two-col{grid-template-columns:repeat(2,1fr)}
+.flip{position:relative;display:grid;transform-style:preserve-3d;transition:transform .8s var(--ease)}
+.vs-grid.two .flip{transform:rotateY(180deg)}
+.flip > div{grid-area:1/1;position:relative;backface-visibility:hidden;min-height:0;border-radius:22px;padding:26px 28px 28px;display:flex;flex-direction:column;gap:16px}
+.flip .was{background:rgba(234,241,239,.04);border:1px solid var(--line)}
+.flip .now{transform:rotateY(180deg);background:linear-gradient(160deg,rgba(217,154,62,.2),rgba(217,154,62,.05));border:1px solid rgba(217,154,62,.4)}
+.flip > div::before{content:attr(data-t);font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--mute);order:1}
+.flip .now::before{color:var(--amber-l)}
+.flip .ik{position:static;margin:0;width:60px;height:60px;border-radius:18px;order:0}.flip .ik svg{width:30px;height:30px}
+.flip .was .ik{background:rgba(234,241,239,.06);border-color:var(--line);color:var(--mute)}
+.flip p{font-family:var(--ft);font-weight:var(--hw);letter-spacing:var(--ls);font-size:clamp(18px,1.55vw,22px);line-height:1.3;color:var(--ink);order:2;margin-top:auto}
+.flip .was p{color:var(--body)}
+.flip .now p{font-family:var(--fb);font-weight:500;letter-spacing:0;font-size:16.5px;line-height:1.5}
+.vs-quote{margin-top:40px;display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.vs-quote .card{display:flex;flex-direction:column;justify-content:center}
+.vs-quote .q{font-family:var(--ft);font-weight:var(--hw);letter-spacing:var(--ls);font-size:clamp(19px,1.6vw,22px);line-height:1.25;color:var(--ink);text-wrap:balance}
+.nw{white-space:nowrap}
+.devices{position:relative;height:clamp(420px,52vw,680px);margin:10px 0 50px;perspective:1800px}
+.devices .lap{position:absolute;left:50%;top:0;translate:-50% 0;width:min(820px,84%)}
+.lap .scr{background:#0B1618;border-radius:18px 18px 4px 4px;padding:10px;box-shadow:var(--sh)}
+.lap .scr img{border-radius:8px;width:100%;aspect-ratio:1440/800;object-fit:cover;object-position:top}
+.lap .base{height:14px;margin:0 -4%;background:linear-gradient(#C9D4D1,#A9B8B4);border-radius:0 0 16px 16px;position:relative}
+.lap .base::before{content:"";position:absolute;left:50%;top:0;translate:-50% 0;width:16%;height:5px;border-radius:0 0 8px 8px;background:#8FA19D}
+.devices .ph1{position:absolute;left:2%;bottom:0;width:min(230px,26%);transform:rotateY(14deg) rotateZ(-3deg);z-index:2}
+.devices .ph2{position:absolute;right:2%;bottom:6%;width:min(230px,26%);transform:rotateY(-14deg) rotateZ(3deg);z-index:2}
+.devices .phone{width:100%}
+.feat{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
+.feat .card{padding:26px}
+.feat h3{font-size:18px}
+.feat p{font-size:14.5px;color:var(--mute)}
+.gal{display:flex;gap:28px;overflow-x:auto;scroll-snap-type:x mandatory;padding:34px var(--pad) 40px;margin:0 calc(var(--pad)*-1);margin-right:calc(50% - 50vw);padding-right:max(var(--pad),calc(50vw - 50%));scrollbar-width:none}
+.gal::-webkit-scrollbar{display:none}
+.gal figure{scroll-snap-align:center;flex:none;width:min(270px,68vw)}
+.gal figcaption{margin-top:18px}
+.gal figcaption b{display:block;font-family:var(--ft);font-weight:var(--hw);font-size:19px;color:var(--ink);margin-bottom:6px;line-height:1.2}
+.gal figcaption span{font-size:14.5px;color:var(--mute);line-height:1.5;display:block}
+.gal-nav{display:flex;gap:10px;justify-content:flex-end}
+.gal-nav button{width:50px;height:50px;border-radius:50%;border:1.5px solid var(--line2);background:transparent;cursor:pointer;display:grid;place-items:center;color:var(--ink);transition:.25s}
+.gal-nav button:hover{background:var(--ink);color:var(--bg)}
+.gal-nav svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:2}
+/* день */
+.day{position:relative;margin-top:30px}
+.day .line{position:absolute;left:0;right:0;top:34px;height:2px;background:var(--line)}
+.day .line i{position:absolute;left:0;top:0;height:100%;width:0;background:linear-gradient(90deg,var(--amber),var(--amber-l));transition:width 2.4s var(--ease);box-shadow:0 0 12px rgba(217,154,62,.6)}
+.in .day .line i{width:100%}
+.day ol{list-style:none;display:grid;grid-template-columns:repeat(6,1fr);gap:16px;counter-reset:d}
+.day li{position:relative;padding-top:80px;opacity:0;transform:translateY(16px);transition:.7s var(--ease)}
+.in .day li{opacity:1;transform:none}
+.in .day li:nth-child(2){transition-delay:.14s}.in .day li:nth-child(3){transition-delay:.28s}.in .day li:nth-child(4){transition-delay:.42s}.in .day li:nth-child(5){transition-delay:.56s}.in .day li:nth-child(6){transition-delay:.7s}
+.day li .ik{position:absolute;top:8px;left:0;margin:0;background:var(--bg2);border-color:rgba(217,154,62,.5)}
+.day li b{display:block;font-family:var(--ft);font-weight:var(--hw);font-size:15px;color:var(--ink);margin-bottom:6px;line-height:1.25}
+.day li span{font-size:14px;color:var(--mute);line-height:1.5}
+/* маршрут */
+.route{display:grid;grid-template-columns:repeat(28,minmax(0,1fr));gap:4px;margin:10px 0 14px}
+.route i{aspect-ratio:1;border-radius:7px;background:rgba(234,241,239,.06);display:grid;place-items:center;font-style:normal;font-size:12px;font-weight:700;color:var(--mute);min-width:0;opacity:0;transform:scale(.6);transition:.5s var(--ease)}
+.in .route i{opacity:1;transform:none}
+.route i.s{background:rgba(217,154,62,.25);color:var(--amber-l);border:1px solid rgba(217,154,62,.4)}
+.stairs{display:grid;grid-template-columns:repeat(8,1fr);gap:6px;align-items:end;height:150px;margin:40px 0 10px}
+.stairs i{display:block;border-radius:8px 8px 3px 3px;background:linear-gradient(180deg,rgba(79,179,169,.55),rgba(79,179,169,.12));transform-origin:bottom;transform:scaleY(0);transition:transform 1s var(--ease)}
+.in .stairs i{transform:none}
+.stairs i:nth-child(n){transition-delay:calc(var(--i) * .12s)}
+.stairs-l{display:grid;grid-template-columns:repeat(8,1fr);gap:6px;font-size:12px;color:var(--mute);text-align:center}
+.stairs-l span{padding-top:8px;border-top:1px solid var(--line)}
+.lens{display:grid;gap:10px;margin-top:34px}
+.lens div{display:flex;align-items:baseline;justify-content:space-between;gap:14px;padding:16px 20px;border-radius:16px;border:1px solid var(--line);background:rgba(234,241,239,.04)}
+.lens b{font-family:var(--ft);font-weight:var(--hw);color:var(--ink);font-size:17px}
+.lens span{font-size:14px;color:var(--mute);text-align:right}
+.put-split{grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr)}
+.put-h2{font-size:clamp(30px,3.2vw,40px)}
+.pol-h2{font-size:clamp(30px,3.3vw,48px)}
+.pol-split{grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr)}
+/* честная шкала */
+.tl{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;position:relative;margin:36px 0 10px;padding-top:26px}
+.tl::before{content:"";position:absolute;left:12px;right:12px;top:12px;height:2px;background:var(--line)}
+.tl::after{content:"";position:absolute;left:12px;top:12px;height:2px;width:0;background:linear-gradient(90deg,var(--amber),var(--teal));transition:width 2.6s var(--ease)}
+.in .tl::after{width:calc(100% - 24px)}
+.tl div{position:relative}
+.tl div::before{content:"";position:absolute;top:-22px;left:0;width:22px;height:22px;border-radius:50%;background:var(--bg);border:3px solid var(--amber);box-shadow:0 0 0 6px var(--bg)}
+.tl div:nth-child(n+3)::before{border-color:var(--teal)}
+.tl b{display:block;font-family:var(--ft);font-weight:var(--hw);font-size:clamp(22px,2.2vw,30px);color:var(--ink);margin:18px 0 8px;line-height:1.1}
+.tl span{font-size:15px;color:var(--body);line-height:1.5}
+.route i.k{box-shadow:inset 0 0 0 2px rgba(143,214,206,.6)}
+/* наука */
+.sci{display:grid;grid-template-columns:repeat(2,1fr);gap:22px}
+.sci .card{padding:34px;display:block}
+.sci-row{display:grid;grid-template-columns:1fr 150px;gap:20px;align-items:end}
+.sci .num{margin-bottom:8px}
+.mini{height:110px;display:flex;align-items:flex-end;gap:10px}
+.mini i{flex:1;border-radius:8px 8px 3px 3px;transform-origin:bottom;transform:scaleY(0);transition:transform 1.2s var(--ease)}
+.in .mini i{transform:none}
+.mini i.a{background:linear-gradient(180deg,var(--amber-l),var(--amber))}
+.mini i.g{background:rgba(234,241,239,.25)}
+.mini i.t{background:linear-gradient(180deg,var(--teal-l),var(--teal))}
+.mini-l{display:flex;gap:10px;font-size:12px;color:var(--mute);margin-top:8px}
+.mini-l span{flex:1;text-align:center;line-height:1.3}
+.arrows{display:grid;gap:6px;font-size:13px;color:var(--body)}
+.arrows span{display:flex;align-items:center;gap:8px}
+.arrows svg{width:16px;height:16px;fill:none;stroke:var(--teal-l);stroke-width:2;flex:none}
+/* книги */
+.fan{display:flex;justify-content:center;align-items:flex-end;height:clamp(300px,40vw,460px);position:relative;margin:10px 0 50px;overflow-x:clip}
+.fan img{position:absolute;bottom:0;width:clamp(130px,19vw,250px);border-radius:10px;box-shadow:0 30px 60px rgba(0,0,0,.5);transform-origin:50% 120%;transition:transform .8s var(--ease)}
+.pages{display:flex;gap:22px;overflow-x:auto;scroll-snap-type:x mandatory;padding:8px var(--pad) 30px;margin:0 calc(var(--pad)*-1);margin-right:calc(50% - 50vw);padding-right:max(var(--pad),calc(50vw - 50%));scrollbar-width:none}
+.pages::-webkit-scrollbar{display:none}
+.pages figure{flex:none;width:min(340px,72vw);scroll-snap-align:center}
+.pages img{border-radius:10px;box-shadow:var(--sh);border:1px solid var(--line)}
+.pages figcaption{font-size:14px;color:var(--mute);margin-top:12px}
+.books{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:30px}
+.books .card{display:flex;gap:16px;align-items:flex-start;padding:22px}
+.books .ik{margin:0;width:46px;height:46px;border-radius:14px}
+.books b{display:block;color:var(--ink);font-size:16px;margin-bottom:4px;font-weight:700}
+.books span{font-size:14px;color:var(--mute);line-height:1.45}
+/* люди */
+.qs{columns:3 300px;column-gap:20px}
+.q{break-inside:avoid;margin-bottom:20px}
+.q p{font-size:16px;color:var(--ink);line-height:1.55}
+.q .who{margin-top:16px;font-size:13px;color:var(--mute);display:flex;gap:10px;align-items:center}
+.q .who i{width:34px;height:34px;border-radius:50%;background:rgba(217,154,62,.16);color:var(--amber-l);display:grid;place-items:center;font-style:normal;font-weight:800;font-size:14px}
+.q.hl{background:linear-gradient(160deg,rgba(217,154,62,.22),rgba(217,154,62,.05));border-color:rgba(217,154,62,.4)}
+.q.hl p{font-family:var(--ft);font-weight:var(--hw);letter-spacing:var(--ls);font-size:20px;line-height:1.3}
+/* автор */
+.author{display:grid;grid-template-columns:.8fr 1.2fr;gap:clamp(30px,6vw,80px);align-items:center}
+.author .ph{position:relative}
+.author img{border-radius:var(--r-lg);aspect-ratio:4/5;object-fit:cover;object-position:50% 20%;width:100%;height:auto;box-shadow:var(--sh)}
+.author .ph::after{content:"";position:absolute;inset:-14px;border-radius:calc(var(--r-lg) + 14px);border:1px solid rgba(217,154,62,.3);pointer-events:none}
+.author .role{font-size:12.5px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--amber-l);margin-bottom:18px}
+/* кому */
+.fit{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.fit ul{list-style:none;display:grid;gap:12px;margin-top:18px}
+.fit li{display:flex;gap:14px;align-items:flex-start;font-size:15.5px;line-height:1.5}
+.fit li svg{flex:none;width:22px;height:22px;fill:none;stroke-width:2;margin-top:2px}
+.fit .yes li svg{stroke:var(--teal-l)}.fit .no li svg{stroke:var(--rose)}
+/* состав и цена */
+.offer{display:grid;grid-template-columns:1.25fr .75fr;gap:24px;align-items:start}
+.inc{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.inc > div{display:flex;gap:14px;padding:18px;border-radius:16px;background:rgba(234,241,239,.04);border:1px solid var(--line);font-size:14.5px;line-height:1.45;color:var(--mute)}
+.inc b{color:var(--ink);font-weight:700;display:block;margin-bottom:2px;font-size:15.5px}
+.inc .ik{margin:0;width:42px;height:42px;border-radius:12px}
+.inc .ik svg{width:22px;height:22px}
+.price{background:var(--paper);color:var(--dark-body);border-radius:var(--r-lg);padding:36px;box-shadow:0 40px 90px rgba(0,0,0,.5);position:relative;overflow:hidden}
+.price::before{content:"";position:absolute;right:-60px;top:-60px;width:200px;height:200px;border-radius:50%;background:radial-gradient(rgba(217,154,62,.25),transparent 70%)}
+.price .lbl{font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:var(--amber-d)}
+.price h3{font-size:clamp(23px,2.4vw,30px);margin:10px 0 8px;color:var(--dark-ink)}
+.price .sum{font-family:var(--ft);font-weight:var(--hw);letter-spacing:var(--ls);font-size:60px;color:var(--dark-ink);line-height:1;margin:18px 0 6px}
+.price .tbd{border:1.5px dashed #C46A4A;color:#9A4A2E;background:#FBF1EC;border-radius:12px;padding:12px 14px;font-size:14px;font-weight:600;margin:18px 0}
+.price ul{list-style:none;margin:18px 0 26px;display:grid;gap:10px}
+.price li{font-size:15px;padding-left:28px;position:relative;color:var(--dark-body)}
+.price li::before{content:"";position:absolute;left:2px;top:6px;width:14px;height:8px;border-left:2px solid #4E8F6B;border-bottom:2px solid #4E8F6B;transform:rotate(-45deg)}
+.price .btn{width:100%}
+.price .note{font-size:13px;color:var(--dark-mute);margin-top:14px;text-align:center}
+.steps4{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:50px}
+.steps4 .card{padding:24px}
+.steps4 .n{font-family:var(--ft);font-weight:var(--hw);font-size:32px;color:var(--amber-l);margin-bottom:10px;line-height:1}
+.steps4 b{display:block;color:var(--ink);margin-bottom:6px;font-size:16px}
+.steps4 p{font-size:14.5px;color:var(--mute)}
+/* вопросы */
+.faq{max-width:880px}
+.faq details{border-bottom:1px solid var(--line)}
+.faq summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;gap:20px;align-items:center;padding:24px 0;font-family:var(--ft);font-weight:var(--hw);letter-spacing:var(--ls);font-size:clamp(17px,1.6vw,21px);color:var(--ink);line-height:1.3;min-height:44px}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"";flex:none;width:36px;height:36px;border-radius:50%;border:1.5px solid var(--line2);background:no-repeat center/14px url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 14 14'%3E%3Cpath d='M7 1v12M1 7h12' stroke='%23EAF1EF' stroke-width='1.8'/%3E%3C/svg%3E");transition:transform .3s var(--ease)}
+.faq details[open] summary::after{transform:rotate(45deg)}
+.faq details p{padding:0 56px 26px 0;font-size:16px;color:var(--body)}
+/* финал */
+.final{text-align:center;background:radial-gradient(900px 500px at 50% 0%,#1E4A4F,var(--bg) 70%)}
+.final h2{max-width:1000px;margin:0 auto 22px;font-size:clamp(28px,4.4vw,56px)}
+.final .lead{margin:0 auto 36px}
+.foot{background:#071618;color:var(--mute);font-size:14px;padding-block:40px;border-top:1px solid var(--line)}
+.foot > .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:20px;align-items:center}
+.foot a{color:var(--mute);text-decoration:none;border-bottom:1px solid var(--line2);min-height:44px;display:inline-flex;align-items:center}
+/* журналы */
+.zh{display:grid;grid-template-columns:repeat(6,1fr);gap:14px}
+.zh > div{border:1px solid var(--line);border-radius:18px;padding:22px 20px;background:rgba(234,241,239,.03);display:flex;flex-direction:column;gap:4px;min-height:110px;justify-content:flex-end}
+.zh > div b{font-family:var(--ft);font-weight:var(--hw);font-size:34px;line-height:1;color:var(--amber-l)}
+.zh > div span{font-family:var(--ft);font-weight:600;font-size:14px;color:var(--ink);letter-spacing:-.01em;line-height:1.2}
+.zh > div small{font-size:12px;color:var(--mute);line-height:1.35}
+.zh > div.big{font-size:16px;letter-spacing:0;line-height:1.4;font-family:var(--fb);font-weight:400;grid-column:span 2;background:linear-gradient(160deg,rgba(217,154,62,.16),rgba(217,154,62,.03));border-color:rgba(217,154,62,.35)}
+.zh > div.big b{font-size:56px}.zh > div.big span{font-size:20px}
+@media (max-width:1080px){.zh{grid-template-columns:repeat(4,1fr)}}
+@media (max-width:680px){.zh{grid-template-columns:1fr 1fr}.zh > div.big{grid-column:span 2}.zh > div{padding:18px 16px}.zh > div span{font-size:13px}}
+/* участникам 1.0 и ценность */
+.alum{display:grid;grid-template-columns:1.1fr .9fr;gap:22px;align-items:start}
+.alum .card.pale p{color:var(--dark-body)}
+.alum ul{list-style:none;display:grid;gap:12px;margin-top:18px}
+.alum li{display:flex;gap:14px;font-size:15.5px;line-height:1.5}
+.alum li svg{flex:none;width:22px;height:22px;fill:none;stroke:var(--amber-l);stroke-width:2;margin-top:2px}
+.val{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:30px}
+.val div{padding:24px 22px;border-radius:18px;background:rgba(234,241,239,.04);border:1px solid var(--line)}
+.val b{display:block;font-family:var(--ft);font-weight:var(--hw);font-size:34px;color:var(--ink);line-height:1;margin-bottom:10px}
+.val b small{font-size:.5em;color:var(--amber-l)}
+.val span{font-size:14px;color:var(--mute);line-height:1.45}
+@media (max-width:1080px){.alum{grid-template-columns:1fr}.val{grid-template-columns:1fr 1fr}}
+@media (max-width:680px){.val{grid-template-columns:1fr}}
+/* подвал v2 */
+.foot2{background:#071618;border-top:1px solid var(--line);position:relative;overflow:hidden}
+.foot2 .glow{opacity:.35}
+.foot2 .top{display:grid;grid-template-columns:1.3fr 1fr 1fr 1fr;gap:40px;padding-block:70px 50px}
+.foot2 h4{font-family:var(--ft);font-weight:600;font-size:13px;letter-spacing:.06em;text-transform:uppercase;color:var(--amber-l);margin-bottom:18px}
+.foot2 ul{list-style:none;display:grid;gap:10px}
+.foot2 a{color:var(--body);text-decoration:none;font-size:15px;min-height:32px;display:inline-flex;align-items:center;gap:8px;transition:color .2s}
+.foot2 a:hover{color:var(--ink)}
+.foot2 a svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.8}
+.foot2 .brand p{font-size:15px;color:var(--mute);max-width:360px;margin:16px 0 22px;line-height:1.55}
+.foot2 .sub{display:flex;gap:10px;flex-wrap:wrap}
+.foot2 .sub a{border:1px solid var(--line2);border-radius:999px;padding:8px 16px;font-size:14px;color:var(--ink)}
+.foot2 .bot{border-top:1px solid var(--line);padding-block:26px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:14px;font-size:13px;color:var(--dim)}
+.foot2 .bot a{font-size:13px;color:var(--mute);min-height:28px}
+.foot2 .disc{font-size:12.5px;color:var(--dim);max-width:820px;line-height:1.5;padding-bottom:8px}
+@media (max-width:1080px){.foot2 .top{grid-template-columns:1fr 1fr}}
+@media (max-width:680px){.foot2 .top{grid-template-columns:1fr;gap:30px;padding-block:50px 36px}}
+@media (max-width:1080px){
+ .hero > .wrap{grid-template-columns:1fr;min-height:0;padding-block:30px 70px}
+ .hero-vis{order:2;margin-top:20px;min-height:0}
+ .split,.dmn,.author,.offer,.vs-quote{grid-template-columns:1fr}
+ .grid3,.grid4,.feat,.books,.chk,.vs-grid{grid-template-columns:1fr 1fr}
+ .sci{grid-template-columns:1fr}
+ .strip > .wrap{grid-template-columns:1fr 1fr}
+ .strip > .wrap > div{border-right:0;border-bottom:1px solid var(--line);padding:28px 0!important}
+ .strip > .wrap > div:nth-last-child(-n+2){border-bottom:0}
+ .day ol{grid-template-columns:repeat(3,1fr);row-gap:30px}
+ .day .line{display:none}
+ .steps4{grid-template-columns:1fr 1fr}
+ .devices{height:auto;display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:40px}
+ .devices .lap{position:static;translate:none;width:100%;grid-column:1/-1}
+ .devices .ph1,.devices .ph2{position:static;width:min(240px,80%);margin:0 auto;transform:none}
+}
+@media (max-width:680px){
+ body{font-size:16px}
+ .grid2,.grid3,.grid4,.feat,.books,.chk,.vs-grid,.vs-grid.two-col,.inc,.fit,.steps4,.strip > .wrap{grid-template-columns:1fr}
+ .vs-sw .sw{display:grid;grid-template-columns:1fr 1fr;width:100%}
+ .strip > .wrap > div{border-bottom:1px solid var(--line)}
+ .strip > .wrap > div:nth-last-child(-n+2){border-bottom:1px solid var(--line)}
+ .strip > .wrap > div:last-child{border-bottom:0}
+ .day ol{grid-template-columns:1fr 1fr;row-gap:26px}
+ .day li{padding-top:70px}
+ .route{grid-template-columns:repeat(14,minmax(0,1fr))}.route i{font-size:12px}
+ .tl{grid-template-columns:1fr;row-gap:44px}
+ .tl::before,.tl::after{display:none}
+ .sci-row{grid-template-columns:1fr}
+ .mini{height:80px}
+ .f1{left:0;top:-34px}.f2{right:0;bottom:2%}
+ .kicker{letter-spacing:.14em}
+ .float{padding:10px 14px;font-size:12px}.float b{font-size:22px}
+ .nav .btn{display:none}
+ .faq details p{padding-right:0}
+ .card,.sci .card,.q{padding:22px}
+ .price{padding:26px}
+ .reps{height:220px}
+ .fan img{width:120px}
+ .tochki{grid-template-columns:repeat(25,1fr);gap:4px}
+ .hero h1{font-size:clamp(34px,10vw,48px)}
+ .tbar{font-size:12px;gap:10px}
+ .devices .ph2{display:none}
+ .devices{grid-template-columns:1fr}
+ .chk-res{flex-direction:column;align-items:flex-start;gap:10px}
+ .bars span{font-size:12px}
+ .vs-quote .q{padding:0}
+ .ins{grid-template-columns:1fr;gap:16px}
+ .curve svg{margin-inline:-6px;width:calc(100% + 12px)}
+ .curve text{font-size:21px}.curve text.b{font-size:22px}
+ h2.m28{font-size:28px}h2.m24{font-size:24px;letter-spacing:-.03em}h2.m22{font-size:22px;letter-spacing:-.03em}h2.m23{font-size:23px;letter-spacing:-.03em}
+ .final h2{font-size:24px;letter-spacing:-.03em}
+ .nw{white-space:normal}
+ .bars{gap:6px;padding:0}.card:has(.bars){padding:14px 12px}.bars span{height:auto;width:calc(100% + 14px);margin-inline:-7px}.bars b{font-size:13px;white-space:nowrap}
+ .cstat div{padding:14px 12px}
+ .lens span{font-size:13px}
+ .sci h3{font-size:17px;letter-spacing:-.02em}
+ .nwm{white-space:nowrap}
+}
+.vs-quote .q{margin-bottom:0}
+/* узкие телефоны 320-360 */
+@media (max-width:1080px){.hero > .wrap{grid-template-columns:minmax(0,1fr)}.hero > .wrap > div{min-width:0}}
+@media (max-width:360px){.hero h1{font-size:clamp(30px,9.4vw,40px)}.btn{padding:0 22px;font-size:15px}.cta-row .btn{width:100%}.meta b{font-size:13px;padding:8px 12px}.float b{font-size:19px}.f2 .dots i{width:8px;height:8px}}
+.bars{padding:0}
+.price .note a{display:inline-block;padding:10px 0}
+@media (max-width:1080px){.split,.grid2,.sci,.alum,.offer,.dmn,.brainwrap,.author,.vs-quote,.fit{grid-template-columns:minmax(0,1fr)}}
+@media (min-width:1081px){.split,.dmn,.author,.brainwrap{grid-template-columns:1fr 1fr}.brainwrap{grid-template-columns:1.15fr .85fr}.author{grid-template-columns:.8fr 1.2fr}.offer{grid-template-columns:1.25fr .75fr}.alum{grid-template-columns:1.1fr .9fr}.grid2,.sci,.vs-quote,.fit{grid-template-columns:repeat(2,minmax(0,1fr))}.grid3{grid-template-columns:repeat(3,minmax(0,1fr))}.grid4{grid-template-columns:repeat(4,minmax(0,1fr))}}
+@media (max-width:1080px) and (min-width:681px){.grid3,.grid4{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.split > *,.grid2 > *,.card{min-width:0}
+@media (max-width:360px){.cstat{grid-template-columns:1fr}.cstat b{font-size:26px}.habit .mk{font-size:11.5px}}
+@media (max-width:360px){.sw{display:flex;flex-wrap:wrap;width:100%}.sw button{flex:1 1 auto;padding:10px 12px}.hero h1{font-size:clamp(28px,9vw,40px)}}
+@media (max-width:1080px){.hero h1{font-size:clamp(28px,9vw,36px)}.bars{gap:6px}.bars span{font-size:12px;letter-spacing:-.01em}.foot2 a,.foot2 .sub a,.foot2 .bot a{min-height:44px}.price .note a{padding:12px 0}.logo{min-height:44px}}
+@media (max-width:360px){h2,.put-h2,.pol-h2{font-size:24px!important}.big{font-size:64px}.vs-quote .q{font-size:17px}.head{max-width:100%}}
+@media (max-width:360px){h2{font-size:22px!important}.zh{grid-template-columns:1fr}.zh > div.big{grid-column:auto}.big{font-size:56px}.author img{max-width:100%}}
+@media (max-width:1080px){.hero h1{font-size:clamp(28px,7vw,60px)}}
+@media (max-width:680px){.hero h1{font-size:clamp(28px,9vw,36px)}}
+@media (max-width:360px){.final h2{font-size:22px!important}.q.hl p{font-size:17px}}
+@media (max-width:360px){.nw{white-space:normal}}
+.foot2 a,.foot2 .sub a,.foot2 .bot a,.logo{min-height:44px}.price .note a{padding:12px 0}
+@media (max-width:360px){.vs-quote .q{font-size:16px}}
+
+/* столбики Jha: подписи одной высоты, чтобы низ столбиков стоял на одной линии; на 320-360 подписи в шахматном порядке */
+@media (max-width:680px){.bars span{height:34px}}
+@media (max-width:400px){.bars span{height:54px;width:calc(100% + 40px);margin-inline:-20px;letter-spacing:-.02em}.bars div:nth-child(even) span{padding-top:19px}}
+/* приёмка по устройствам 22.09: узкие телефоны */
+@media (max-width:360px){.stairs,.stairs-l{gap:4px}.stairs-l{letter-spacing:-.03em}.stairs-l span{white-space:nowrap}}
+@media (max-width:680px){.habit .mk.a{transform:none}}
+@media (max-width:360px){.lens div{display:grid;grid-template-columns:1fr;gap:4px}.lens span{text-align:left}}
+@media (max-width:480px){.day ol{grid-template-columns:1fr;row-gap:18px}.day li{padding:4px 0 0 66px;min-height:56px}.day li .ik{top:0}}
+.nh{white-space:nowrap}
+.foot2 .sep{font-style:normal}
+@media (max-width:680px){.foot2 .bot .sep{display:block;height:0;overflow:hidden}}
+/* 320-360: точечные кегли заголовков и карточек, чтобы ни одна строка не была из одного слова */
+@media (max-width:360px){
+ .feat .card{padding:20px}.feat h3{font-size:15.5px}
+ .day li{padding:64px 0 0}.day li .ik{top:0}
+ .vs-sw .sw{display:flex;flex-wrap:wrap}.vs-sw .sw button{flex:1 1 auto}
+ .sci h3{font-size:15.5px}
+ .vs-quote .q{font-size:14px}
+ h2.m23{font-size:21px!important}#chto-novogo h2{font-size:20px!important}h2.m22{font-size:21px!important}.final h2{font-size:21px!important}
+}
+@media (max-width:340px){
+ h2.m23{font-size:18px!important}#chto-novogo h2{font-size:18px!important}h2.m22{font-size:19px!important}#pervyy-potok h2{font-size:21px!important}.final h2{font-size:19px!important}#otzyvy h2{font-size:20px!important}
+ #trenirovka .grid2 .card h3{font-size:16.5px}
+ .zh > div.big span{font-size:18px}
+ .inc b{font-size:14.5px}
+ .books b{letter-spacing:-.01em}
+ .q.hl p{font-size:15px}
+ .vs-quote .card{padding:16px}.vs-quote .q{font-size:13.5px}
+ .price h3{font-size:21px}
+ #pervyy-potok h3{font-size:17px}
+ .inc b{font-size:14px}
+ .q.hl{padding:16px}.q.hl p{font-size:14px}
+}
+/* телефоны 361-480: стена журналов строкой, кегли цитат и науки, переключатель */
+@media (max-width:480px){
+ .zh{grid-template-columns:1fr;gap:10px}
+ .zh > div{flex-direction:row;align-items:baseline;gap:12px;min-height:0;padding:14px 18px;justify-content:flex-start}
+ .zh > div b{font-size:26px;min-width:34px}
+ .zh > div.big{flex-direction:column;gap:4px;padding:18px 16px;grid-column:auto}
+ .zh > div.big b{font-size:48px}
+}
+@media (min-width:361px) and (max-width:480px){
+ .vs-sw .sw{display:flex;flex-wrap:wrap}.vs-sw .sw button{flex:1 1 auto}
+ .vs-quote .card{padding:16px}.vs-quote .q{font-size:16px}
+ .sci .card{padding:18px}.sci h3{font-size:16px}
+ .q.hl p{font-size:15.5px}
+}
+@media (min-width:361px) and (max-width:400px){#chto-novogo h2{font-size:21px}.vs-quote .q{font-size:14.5px}.sci h3{font-size:15px}h2.m23{font-size:21px}#voprosy h2{font-size:25px}}
+@media (max-width:680px){#darya h2{font-size:clamp(22px,6.6vw,30px)}}
+@media (max-width:360px){.zh > div span{font-size:12.5px}}
+/* цитаты первого потока на телефоне: шрифт текста, потому что «непрофессионального» в Unbounded не помещается в строку ни при одном разумном кегле */
+@media (max-width:480px){.vs-quote .q{font-family:var(--fb);font-weight:700;font-size:17px;letter-spacing:-.01em;line-height:1.35}}
+@media (max-width:360px){.vs-quote .q{font-size:16px}}
+@media (max-width:340px){.vs-quote .q{font-size:14.5px}h2.m22{font-size:18px!important;letter-spacing:-.04em}}
+/* планшеты 681-1080: шаги дня в две колонки, таймлайн, отзывы в две колонки, стена журналов строками */
+@media (min-width:681px) and (max-width:1080px){
+ .day ol{grid-template-columns:1fr 1fr}
+ .tl span{font-size:14px}
+ .qs{columns:2 300px}.q.hl p{font-size:17px}
+ .zh{grid-template-columns:1fr 1fr;gap:12px}
+ .zh > div{flex-direction:row;align-items:baseline;gap:12px;min-height:0;padding:16px 20px;justify-content:flex-start}
+ .zh > div b{font-size:28px;min-width:36px}
+ .zh > div span{font-size:13px}
+ .zh > div.big{flex-direction:column;gap:4px;padding:22px 20px;grid-column:span 2}
+ .zh > div.big b{font-size:52px}.zh > div.big span{font-size:20px}
+}
+/* ПК: выделенный отзыв и заголовки плиток кабинета чуть мельче, чтобы не было строк из одного слова */
+@media (min-width:1081px){.q.hl p{font-size:18px}}
+@media (min-width:681px) and (max-width:800px){.tl span{font-size:13px}}
+/* добор после механического гейта: цепочки nbsp в заголовках не должны вылезать за кадр */
+@media (min-width:361px) and (max-width:400px){#trenirovka h2{font-size:25px}#komu h2{font-size:26px}}
+@media (max-width:340px){#trenirovka h2{font-size:21px!important}}
+@media (min-width:341px) and (max-width:360px){.q.hl p{font-size:15.5px}}
+/* крайние подписи столбиков Jha не касаются краёв карточки; канвас внимания на 320 выше, чтобы подпись не села на «то, что ты делаешь сейчас» */
+@media (max-width:400px){.bars div:first-child span{margin-inline:-10px -30px}.bars div:last-child span{margin-inline:-30px -10px}}
+@media (max-width:360px){.vnim{min-height:250px}.vnim .lbl{right:24px}}
+/* планшет 681-900: таймлайн сроков 2×2 без верхней линии (4 колонки по 170px рвали текст), колонка мини-графика науки 160px под «C-реактивный белок» */
+@media (min-width:681px) and (max-width:900px){.tl{grid-template-columns:1fr 1fr;row-gap:34px}.tl::before,.tl::after{display:none}}
+@media (min-width:681px){.sci-row{grid-template-columns:1fr 160px}}
+@media (max-width:340px){#knigi h2{font-size:20px!important}}
+@media (max-width:480px){.author .role{font-size:12px;letter-spacing:.1em}}
+@media (max-width:400px){.cstat{grid-template-columns:1fr}}
+@media (max-width:680px){.flip > div{padding:22px}.flip .ik{width:52px;height:52px}.flip p{font-size:17px}.flip .now p{font-size:15.5px}}
+/* цена и заголовок маршрута на узких */
+.price .sum{font-size:clamp(40px,11vw,60px);white-space:nowrap}
+@media (max-width:430px){.put-h2{font-size:clamp(22px,6.2vw,28px)!important}}
+@media (max-width:360px){.price .sum{font-size:38px}}
+/* приёмка по устройствам, круг 2 (после вычитки словесника) */
+@media (max-width:360px){.flip .was p,.flip .now p{font-family:var(--fb);font-weight:700;letter-spacing:-.01em;font-size:16px;line-height:1.4}}
+@media (max-width:340px){#trenirovka .card h3,#pochemu .card h3{font-size:17px}}
+@media (min-width:361px) and (max-width:400px){#pochemu h2{font-size:26px}#vhod h2{font-size:26px}}
+@media (max-width:440px){#knigi h2{font-size:calc((100vw - 40px) / 14.4)!important}}
+.alum li span{min-width:0}
+@media (min-width:1081px){.vs-grid:not(.two-col) .flip .was p{font-size:19px}}
+/* ПК: заголовки плиток кабинета, шагов дня и журналов в одну строку */
+@media (min-width:1081px){
+ .feat h3{font-family:var(--fb);font-weight:800;font-size:17px;letter-spacing:-.01em;white-space:nowrap}
+ .day ol{grid-template-columns:repeat(3,minmax(0,1fr));row-gap:40px}
+ .day .line{display:none}
+ .day li{border-top:2px solid rgba(217,154,62,.25);padding-top:84px}
+ .day li b{white-space:nowrap}
+ .zh{grid-template-columns:repeat(12,minmax(0,1fr))}
+ .zh > div{grid-column:span 3}
+ .zh > div.big{grid-column:span 4}
+ .zh > div span{font-family:var(--fb);font-weight:700;font-size:15px;letter-spacing:0;white-space:nowrap}
+ .zh > div.big span{font-family:var(--ft);font-size:20px}
+}
+/* ===== 27.09 рабочая версия: мозг DMN на снимке, кнопки ===== */
+.brainbox.mz{padding:18px 18px 64px;background:radial-gradient(60% 60% at 50% 45%,rgba(79,179,169,.14),transparent 70%),#06131a}
+.mz-in{position:relative;width:100%;max-width:620px;margin:0 auto}
+.mz-in img{display:block;width:100%;height:auto;border-radius:14px}
+.mz-in svg{position:absolute;inset:0;width:100%;height:100%}
+.mz .g-n,.mz .g-d,.mz .g-c,.mz .g-l{transition:opacity .7s var(--ease)}
+.dn{transform-box:fill-box;transform-origin:center;animation:dn 2.4s ease-in-out infinite}
+@keyframes dn{0%,100%{transform:scale(.75);opacity:.55}50%{transform:scale(1.15);opacity:1}}
+.nr{animation:nr 3s ease-in-out infinite}
+@keyframes nr{0%,100%{opacity:.35}50%{opacity:1}}
+.mz[data-m=rest] .g-d{opacity:1}.mz[data-m=rest] .g-c{opacity:.12}.mz[data-m=rest] .g-l{opacity:0}.mz[data-m=rest] .g-n{opacity:.9}
+.mz[data-m=task] .g-d{opacity:.14}.mz[data-m=task] .g-c{opacity:1}.mz[data-m=task] .g-l{opacity:0}.mz[data-m=task] .g-n{opacity:.55}
+.mz[data-m=trained] .g-d{opacity:.38}.mz[data-m=trained] .g-c{opacity:.8}.mz[data-m=trained] .g-l{opacity:1}.mz[data-m=trained] .g-n{opacity:.45}
+.mz[data-m=trained] .g-d .dn{animation-duration:4.2s}
+.bl2{position:absolute;transform:translate(-50%,-135%);font-size:12px;line-height:1.25;font-weight:700;letter-spacing:.01em;padding:5px 9px;border-radius:8px;white-space:nowrap;pointer-events:none;opacity:0;transition:opacity .5s;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.bl2.d{background:rgba(255,176,112,.16);color:#FFD9B8;border:1px solid rgba(255,176,112,.4)}
+.bl2.c{background:rgba(143,214,206,.14);color:#CFF3EE;border:1px solid rgba(143,214,206,.4)}
+.mz[data-m=rest] .bl2.d,.mz[data-m=task] .bl2.c,.mz[data-m=trained] .bl2{opacity:1}
+.mz[data-m=trained] .bl2.d:first-of-type,.mz[data-m=trained] .bl2.c:last-of-type{opacity:0}
+.mz-leg{display:flex;flex-wrap:wrap;gap:8px 18px;justify-content:center;margin-top:12px;font-size:12.5px;color:var(--mute)}
+.mz-leg span{display:inline-flex;align-items:center;gap:7px}
+.mz-leg i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.mz-leg i.d{background:#ffb070;box-shadow:0 0 10px #ffb070}.mz-leg i.c{background:#8FD6CE;box-shadow:0 0 10px #8FD6CE}.mz-leg i.n{background:#7DC4FF;box-shadow:0 0 8px #7DC4FF}
+@media (max-width:680px){.brainbox.mz{padding:12px 12px 60px}.bl2{font-size:12px;padding:4px 7px;white-space:normal;width:max-content;max-width:132px;text-align:center}}
+@media (prefers-reduced-motion:reduce){.dn,.nr{animation:none}}
+/* кнопки */
+.btn-a{position:relative;overflow:hidden;isolation:isolate;background:linear-gradient(135deg,#F7D08A 0%,var(--amber-l) 38%,var(--amber) 100%);box-shadow:inset 0 1px 0 rgba(255,255,255,.55),inset 0 -2px 0 rgba(120,70,10,.25),0 14px 38px rgba(217,154,62,.38),0 0 0 1px rgba(255,214,150,.35)}
+.btn-a::after{content:'';position:absolute;z-index:-1;top:0;bottom:0;left:-60%;width:40%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.55),transparent);transform:skewX(-18deg);animation:shine 4.5s ease-in-out infinite}
+@keyframes shine{0%,62%{left:-60%}100%{left:130%}}
+.btn-a .ar{display:inline-grid;place-items:center;width:30px;height:30px;margin-right:-14px;border-radius:50%;background:rgba(27,18,6,.9);color:#F7D08A;transition:transform .3s var(--ease)}
+.btn-a .ar svg{width:15px;height:15px;stroke:currentColor;stroke-width:2.4;fill:none}
+.btn-a:hover .ar{transform:translateX(4px)}
+.btn-g{backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+@media (prefers-reduced-motion:reduce){.btn-a::after{animation:none;display:none}}
+
+/* тело: сердце и мозг */
+.tw .hbx{position:relative;border-radius:var(--r-lg);overflow:hidden;border:1px solid var(--line);background:#0b1522;max-width:520px;width:100%;justify-self:center}
+.tw .hbx img{display:block;width:100%;height:auto;aspect-ratio:896/1152;object-fit:cover}
+.tw .hbx svg{position:absolute;inset:0;width:100%;height:100%}
+.hb-glow{transform-origin:470px 190px;animation:hbg 2.2s ease-in-out infinite}
+@keyframes hbg{0%,100%{opacity:.15}50%{opacity:.55}}
+@media (max-width:680px){.tw .hbx{max-width:400px}}
+
+/* ===== приёмка вёрстки 27.09: переносы, мозг, кабинет, столбики ===== */
+/* мозг: подписи на телефоне по режимам, без наездов друг на друга и на край */
+@media (max-width:680px){
+ .mz .bl2{max-width:152px;padding:4px 6px;transition:opacity .5s,top .5s,transform .5s}
+ .mz .bl2:nth-of-type(2){max-width:100px}
+ .mz .bl2:nth-of-type(1){left:2%!important;top:calc(39.7% - 10px)!important;transform:translateY(-100%)!important}
+ .mz .bl2:nth-of-type(2){left:auto!important;right:2%;top:calc(28.1% - 10px)!important;transform:translateY(-100%)!important}
+ .mz[data-m=trained] .bl2:nth-of-type(2){top:calc(28.1% + 10px)!important;transform:none!important}
+ .mz .bl2:nth-of-type(3){left:32.7%!important;top:calc(25.8% - 10px)!important;transform:translate(-50%,-100%)!important}
+ .mz .bl2:nth-of-type(4){left:auto!important;right:2%;top:calc(23.2% + 10px)!important;transform:none!important}
+ .sw{border-radius:26px}
+}
+@media (max-width:340px){.mz .bl2{padding:4px 5px;letter-spacing:0}}
+/* мозг на ПК: переключатель не прыгает при смене режима */
+@media (min-width:1081px){.brainside{min-height:340px}}
+/* ноутбук: скрин кабинета целиком, без обрезки меню */
+.lap .scr img{aspect-ratio:1600/806}
+/* телефон: скругление экрана не срезает нижнюю панель */
+.phone{border-radius:40px}.phone::before{border-radius:29px 29px 0 0}.phone img{border-radius:0 0 29px 29px}
+/* удержание: подпись под цифрой обычным межстрочным */
+.cstat span{display:block}
+/* столбики Jha: колонки равной ширины, подписи в одну линию, где помещаются */
+.bars div{flex:1 1 0;min-width:0}
+
+/* наука: «Тело / успокаивается измеримо» на узких */
+@media (max-width:380px){.sci h3 .nwm{white-space:normal}}
+@media (max-width:340px){.sci h3{font-size:14px}}
+/* книги: без пустой полосы над веером на телефоне */
+@media (max-width:680px){.fan{height:230px}}
+@media (max-width:380px){.mz .bl2:nth-of-type(1){top:calc(39.7% + 12px)!important;transform:none!important}}
+@media (max-width:680px){.bars div{gap:6px}}
+@media (max-width:411px){.final h2{font-size:calc((100vw - 40px) * .063)}}
+@media (max-width:411px){.final h2{font-size:calc((100vw - 40px) * .063)!important}}
+.bars span{flex-shrink:0}.bars i{min-height:0;flex-shrink:1}
+/* столбики на узких: подписи лесенкой без наездов, «ещё ниже» в две строки внутри колонки */
+@media (max-width:400px){
+ .bars span,.bars div:first-child span,.bars div:last-child span{height:68px;width:calc(100% + 40px);margin-inline:-20px}
+ .bars div:nth-child(even) span{padding-top:34px}
+ .bars b{white-space:nowrap;font-size:12px}
+}
+@media (max-width:400px){
+ .bars{height:260px}
+ .bars div:nth-child(1) i{height:calc(58% * .68)!important}.bars div:nth-child(2) i{height:calc(30% * .68)!important}
+ .bars div:nth-child(3) i{height:calc(34% * .68)!important}.bars div:nth-child(4) i{height:calc(88% * .68)!important}
+}
+
+/* === тело: компактная картинка с научной подписью (правка владельца 27.09) === */
+.brainwrap.tw{grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);align-items:center}
+.tw .hbf{margin:0;max-width:400px;width:100%;justify-self:center}
+.tw .hbx{max-width:none;aspect-ratio:896/1000}
+.tw .hbx img{aspect-ratio:auto;height:100%;object-fit:cover;object-position:center 40%}
+.tw .hbx svg{inset:auto;left:0;top:50%;height:auto;aspect-ratio:896/1152;transform:translateY(-50%)}
+.hbcap{margin-top:14px;display:grid;gap:6px;font-size:13.5px;line-height:1.5;color:var(--mute)}
+.hbcap b{font-family:'Unbounded',sans-serif;font-weight:600;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--amber-l)}
+.hbcap i{font-style:normal;font-size:12.5px;opacity:.75}
+@media (max-width:1080px){.brainwrap.tw{grid-template-columns:minmax(0,1fr)}.tw .hbf{max-width:420px}}
+@media (max-width:680px){.tw .hbf{max-width:360px}}
+/* телефоны кабинета: экран входит целиком (шапка и нижнее меню не режутся), высота корпуса по снимку */
+.phone{aspect-ratio:auto;height:auto}
+.phone::before{height:30px}
+.phone img{display:block;height:auto;aspect-ratio:600/1298;object-fit:contain;margin-top:30px;background:#F4F6F5}
+/* наука: «Тело успокаивается измеримо» одной строкой на 341-389 */
+@media (min-width:341px) and (max-width:389px){.sci h3{font-size:14px;letter-spacing:-.03em}.sci .card{padding-left:20px;padding-right:20px}.sci h3 .nwm{white-space:nowrap}}
+@media (max-width:340px){.card:has(.bars){padding:14px 8px}.bars{gap:4px}.bars b{letter-spacing:-.04em}}
+/* 320: списки выпускников шире и ровнее */
+@media (max-width:340px){.alum .card{padding-left:18px;padding-right:18px}.alum li{gap:10px;font-size:14.5px}.alum li svg{width:18px;height:18px}}
+@media (max-width:340px){.btn.btn-a{padding:0 22px;gap:8px;font-size:15px;white-space:nowrap}.btn-a .ar{margin-right:-10px}}
+/* было/стало: текст сразу под меткой, строки карточек в ряду начинаются на одной высоте */
+.flip p{margin-top:0}
+/* планшет: портрет Дарьи не на весь экран */
+@media (min-width:681px) and (max-width:1080px){.author .ph{max-width:440px;width:100%}}
+/* столбики Jha: график по центру карточки, без пустоты снизу */
+.card:has(.bars){display:flex;flex-direction:column;justify-content:center}
+.gal figcaption span span{display:inline}
+/* 320: точечный кегль, чтобы строки не оставались из одного слова */
+@media (max-width:340px){
+ .price h3{font-size:20px}
+ .sci h3{font-size:13px}
+ .gal figcaption span{letter-spacing:-.012em}
+ .brainside h3{font-size:18.4px}
+}
+span.nh{display:inline!important}
+/* внимание: подпись под холстом, не поверх надписей анимации */
+@media (max-width:1080px){.vnim{flex-direction:column;align-items:stretch}.vnim .lbl{position:static;padding:0 22px 18px;line-height:1.45}}
+@media (max-width:340px){.sci .card{padding-left:18px;padding-right:18px}.sci h3{font-size:13.5px;letter-spacing:-.035em}}
+@media (max-width:440px){.cstat{grid-template-columns:1fr}}
+@media (max-width:340px){.sci .card{padding-left:14px!important;padding-right:14px!important}.sci h3{font-size:13px!important;letter-spacing:-.03em!important}}
+
+/* === два тарифа (27.09): сам по протоколу и с сессией Дарьи === */
+.offer.solo{grid-template-columns:minmax(0,1fr)}
+.offer.solo .inc{grid-template-columns:repeat(3,minmax(0,1fr))}
+.tarify{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin-top:40px;align-items:stretch;scroll-margin-top:90px}
+.tarify .price{display:flex;flex-direction:column}
+.tarify .price ul{flex:1}
+.price.t2{background:linear-gradient(160deg,#10262A 0%,#0A1A1D 100%);color:var(--body);border:1.5px solid rgba(233,182,98,.55);box-shadow:0 40px 90px rgba(0,0,0,.55),0 0 0 6px rgba(233,182,98,.06)}
+.price.t2 .lbl{color:var(--amber-l)}
+.price.t2 h3,.price.t2 .sum{color:var(--ink)}
+.price.t2 li{color:var(--body)}
+.price.t2 li b{color:var(--ink)}
+.price.t2 li::before{border-color:var(--amber-l)}
+.price .badge{position:absolute;top:22px;right:22px;font-size:12px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:#1B1206;background:linear-gradient(135deg,#F7D08A,var(--amber));padding:7px 12px;border-radius:999px}
+.price .old{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;margin-top:16px;font-size:14px;color:var(--mute)}
+.price .old s{font-family:var(--ft);font-weight:var(--hw);font-size:22px;color:var(--mute);text-decoration-thickness:2px}
+.price.t2 .sum{margin-top:8px}
+.tar-note{text-align:center;font-size:14px;color:var(--mute);margin-top:18px}
+.tar-note a{color:var(--amber-l)}
+@media (max-width:1080px){.tarify{grid-template-columns:minmax(0,1fr);max-width:560px;margin-left:auto;margin-right:auto}.offer.solo .inc{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:680px){.offer.solo .inc{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:680px){.price .badge{position:static;display:inline-block;align-self:flex-start;margin-bottom:12px}}
+.tarify .price ul{align-content:start}
+.price .tsub{font-size:14.5px;color:var(--dark-mute);margin-top:-2px}
+.price .save{display:inline-block;align-self:flex-start;margin-top:10px;font-size:13px;font-weight:700;letter-spacing:.02em;color:var(--amber-l);border:1px solid rgba(233,182,98,.45);border-radius:999px;padding:5px 12px}
+.price.t2 li a{color:var(--amber-l);text-decoration:underline;text-underline-offset:3px;word-break:break-word}
+/* тарифы: Протокол главный (золотая рамка), сессия дополнение; обе кнопки золотые (владелец 27.09) */
+.price.t1,.price.t2{background:linear-gradient(160deg,#10262A 0%,#0A1A1D 100%);color:var(--body)}
+.price.t1{border:1.5px solid rgba(233,182,98,.6);box-shadow:0 40px 90px rgba(0,0,0,.55),0 0 0 6px rgba(233,182,98,.07)}
+.price.t2{border:1.5px solid var(--line2);box-shadow:0 30px 70px rgba(0,0,0,.4)}
+.price.t1 .lbl,.price.t2 .lbl{color:var(--amber-l)}
+.price.t1 h3,.price.t1 .sum,.price.t2 h3,.price.t2 .sum{color:var(--ink)}
+.price.t1 li,.price.t2 li{color:var(--body)}
+.price.t1 li::before,.price.t2 li::before{border-color:var(--amber-l)}
+.price.t1::before,.price.t1::after,.price.t2::before,.price.t2::after{display:none}
+.price.t2 .sum{font-size:clamp(40px,4.4vw,52px)}
+/* состав Протокола иконками (владелец: «вместо галочек классные SVG-иконки, чтобы блок был заполненный») */
+.price .tic{list-style:none;display:grid;gap:14px;margin:22px 0 28px}
+.price .tic li{display:grid;grid-template-columns:44px minmax(0,1fr);gap:14px;align-items:center;padding:0}
+.price .tic li::before{display:none}
+.price .tic .ik{width:44px;height:44px;border-radius:13px}
+.price .tic .ik svg{width:22px;height:22px}
+.price .tic b{display:block;font-size:15.5px;font-weight:700;color:var(--ink);line-height:1.3}
+.price .tic li>span:last-child{font-size:14px;line-height:1.4;color:var(--mute)}
+.price .tic li a{color:var(--amber-l);text-decoration:underline;text-underline-offset:3px}
+/* тарифы компактно: обе карточки с кнопкой в один экран ноутбука (владелец 27.09) */
+.tarify{margin-top:28px;gap:20px;scroll-margin-top:84px}
+.tarify .price{padding:26px 28px}
+.tarify .price .lbl{font-size:11.5px}
+.tarify .price h3{font-size:clamp(19px,1.7vw,23px);margin:8px 0 4px;line-height:1.2}
+.tarify .price .sum{font-size:clamp(36px,3.4vw,44px);margin:10px 0 2px}
+.tarify .price .old{margin-top:8px}
+.tarify .price .old s{font-size:17px}
+.tarify .price .save{margin-top:6px;padding:4px 10px;font-size:12.5px}
+.tarify .price .tic{margin:16px 0 20px;gap:10px 16px}
+.tarify .price .tic li{grid-template-columns:34px minmax(0,1fr);gap:10px;align-items:start}
+.tarify .price .tic .ik{width:34px;height:34px;border-radius:10px}
+.tarify .price .tic .ik svg{width:18px;height:18px}
+.tarify .price .tic b{font-size:14px}
+.tarify .price .tic li>span:last-child{font-size:12.5px;line-height:1.35}
+.tarify .price .btn{min-height:52px}
+
+@media (max-width:680px){
+ .tarify{scroll-margin-top:64px}
+ .tarify .price{padding:22px 20px}
+ .tarify .price.t1 .tic{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 10px}
+ .tarify .price.t1 .tic li{grid-template-columns:30px minmax(0,1fr);gap:8px;align-items:center}
+ .tarify .price.t1 .tic .ik{width:30px;height:30px;border-radius:9px}
+ .tarify .price.t1 .tic .ik svg{width:16px;height:16px}
+ .tarify .price.t1 .tic li>span:last-child{font-size:0}
+ .tarify .price.t1 .tic b{font-size:13px;line-height:1.25}
+}
+.tarify .price .tic{gap:8px}
+@media (max-width:680px){.tarify .price.t1 .tic li>span:last-child{line-height:0}.tarify .price.t1 .tic b{line-height:1.25}}
+/* скрины сообщений из чата первого потока */
+.chat-skr{columns:3 300px;column-gap:18px;margin:34px 0 10px}
+.chat-skr figure{break-inside:avoid;margin:0 0 18px;border-radius:18px;overflow:hidden;border:1px solid var(--line);box-shadow:0 24px 50px -24px rgba(0,0,0,.6);background:#0E1621}
+.chat-skr img{display:block;width:100%;height:auto}
+.chat-skr-p{font-size:13px;color:var(--mute);margin:0 0 30px}
+@media (max-width:680px){.chat-skr{columns:1;margin-top:24px}.chat-skr figure{max-width:420px;margin-left:auto;margin-right:auto}}
+/* отзывы-скрины: на телефоне листаются пальцем вбок */
+@media (max-width:680px){
+ .chat-skr{columns:auto;display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;margin:24px calc(var(--pad) * -1) 8px;padding:0 var(--pad) 14px;scrollbar-width:none}
+ .chat-skr::-webkit-scrollbar{display:none}
+ .chat-skr figure{flex:0 0 84%;max-width:none;margin:0;scroll-snap-align:center;align-self:flex-start}
+}
+.chat-dots{display:none}
+@media (max-width:680px){.chat-dots{display:flex;justify-content:center;gap:7px;margin:4px 0 0}.chat-dots i{width:7px;height:7px;border-radius:50%;background:rgba(234,241,239,.22);transition:background .3s,width .3s}.chat-dots i.on{background:var(--amber-l);width:20px;border-radius:4px}}
+/* === отзывы: лента-слайдер на всех ширинах (владелец: «коряво налеплено, чтобы листалось и красиво») === */
+#otzyvy .head{position:relative}
+.chat-skr{columns:auto!important;display:flex!important;gap:22px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;margin:36px calc(var(--pad) * -1) 0!important;padding:6px var(--pad) 26px!important;scrollbar-width:none;align-items:stretch}
+.chat-skr::-webkit-scrollbar{display:none}
+.chat-skr figure{flex:0 0 min(380px,82vw)!important;margin:0!important;max-width:none!important;scroll-snap-align:center;display:flex;flex-direction:column;justify-content:flex-start;background:#0E1621;border-radius:22px;border:1px solid rgba(125,196,255,.14);box-shadow:0 30px 60px -30px rgba(0,0,0,.7);overflow:hidden;transition:transform .4s var(--ease),border-color .4s}
+.chat-skr figure:hover{transform:translateY(-4px);border-color:rgba(233,182,98,.35)}
+.chat-skr img{display:block;width:100%;height:auto}
+.chat-nav{display:flex;gap:10px;justify-content:flex-end;margin:-8px 0 0}
+.chat-nav button{width:48px;height:48px;border-radius:50%;border:1.5px solid var(--line2);background:rgba(234,241,239,.04);color:var(--ink);display:grid;place-items:center;cursor:pointer;transition:background .25s,border-color .25s}
+.chat-nav button:hover{background:rgba(233,182,98,.12);border-color:rgba(233,182,98,.5)}
+.chat-nav svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.chat-dots{display:flex!important;justify-content:center;gap:8px;margin:6px 0 0}
+.chat-dots i{width:8px;height:8px;border-radius:50%;background:rgba(234,241,239,.22);transition:background .3s,width .3s;cursor:pointer}
+.chat-dots i.on{background:var(--amber-l);width:24px;border-radius:4px}
+@media (max-width:680px){.chat-nav{display:none}.chat-skr{gap:14px;margin-top:22px!important}.chat-skr figure{flex-basis:84%!important}}
+.chat-skr figure{justify-content:flex-end!important;background:radial-gradient(120% 60% at 50% 0%,rgba(125,196,255,.06),transparent 60%),#0E1621!important}
+@media (min-width:681px){#otzyvy .head{padding-right:130px}.chat-nav{position:relative;margin:-58px 0 0;z-index:2}}
+.chat-skr figure{align-self:stretch!important}
+/* === отзывы в стиле сайта: карточка-переписка (владелец: скрины «бьют в глаз бревном») === */
+.chat-skr .ot{flex:0 0 min(400px,84vw)!important;background:linear-gradient(165deg,rgba(234,241,239,.06),rgba(234,241,239,.02))!important;border:1px solid var(--line2)!important;border-radius:26px!important;padding:22px 22px 24px;display:flex;flex-direction:column;gap:16px;justify-content:flex-start!important;box-shadow:0 30px 70px -40px rgba(0,0,0,.8)!important;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.chat-skr .ot:hover{border-color:rgba(233,182,98,.4)!important}
+.ot-h{display:flex;align-items:center;gap:12px}
+.ot-a{flex:0 0 42px;height:42px;border-radius:50%;display:grid;place-items:center;font-weight:700;font-size:14px;color:#1B1206;background:linear-gradient(135deg,#F7D08A,var(--amber))}
+.ot:nth-child(3n+2) .ot-a{background:linear-gradient(135deg,#BFEDE6,#5FC4B8)}
+.ot:nth-child(3n+3) .ot-a{background:linear-gradient(135deg,#C9DEF7,#7DB2E8)}
+.ot-n{display:flex;flex-direction:column;line-height:1.25;min-width:0}
+.ot-n b{color:var(--ink);font-size:15.5px;font-weight:700}
+.ot-n i{font-style:normal;color:var(--mute);font-size:12.5px;margin-top:2px}
+.ot .tg{margin-left:auto;width:20px;height:20px;fill:rgba(234,241,239,.28)}
+.ot-b{position:relative;background:rgba(234,241,239,.05);border:1px solid var(--line);border-radius:6px 20px 20px 20px;padding:14px 16px 26px}
+.ot-b p{margin:0;color:var(--body);font-size:15.5px;line-height:1.55}
+.ot-t{position:absolute;right:14px;bottom:8px;font-size:11.5px;color:var(--mute)}
+@media (max-width:680px){.ot-b p{font-size:15px}}
+.chat-skr{align-items:flex-start!important;-webkit-mask-image:linear-gradient(90deg,#000 0,#000 calc(100% - 70px),transparent);mask-image:linear-gradient(90deg,#000 0,#000 calc(100% - 70px),transparent)}
+.ot-b p{max-height:calc(1.55em * 9);overflow:hidden;position:relative}
+.ot-b.cut:not(.open) p{-webkit-mask-image:linear-gradient(180deg,#000 60%,transparent);mask-image:linear-gradient(180deg,#000 60%,transparent)}
+.ot-b.open p{max-height:none}
+.ot-more{display:none;margin-top:10px;background:none;border:0;padding:6px 0;color:var(--amber-l);font:inherit;font-size:13.5px;font-weight:700;cursor:pointer;min-height:44px}
+.ot-b.cut .ot-more{display:inline-block}
+@media (max-width:680px){.chat-skr{-webkit-mask-image:none;mask-image:none}}
+.chat-skr .ot .ot-b{flex:1 1 auto}
+/* без пустот: карточка по высоте текста, длинные свёрнуты до 6 строк */
+.chat-skr .ot{align-self:flex-start!important}
+.chat-skr .ot .ot-b{flex:0 0 auto}
+.ot-b p{max-height:calc(1.55em * 6)}
+/* все карточки одного размера (владелец 28.09): растянуты по самой высокой, облачко заполняет карточку */
+.chat-skr{align-items:stretch!important}
+.chat-skr .ot{align-self:stretch!important}
+.chat-skr .ot .ot-b{flex:1 1 auto!important}
+/* версия отзывов скринами: окна чата одного размера */
+.sk-row .sk{flex:0 0 min(380px,84vw)!important;height:500px;position:relative;margin:0!important;border-radius:24px!important;overflow:hidden;border:1px solid rgba(125,196,255,.16)!important;background:#0E1621!important;box-shadow:0 30px 70px -36px rgba(0,0,0,.85)!important;scroll-snap-align:center;align-self:flex-start!important}
+.sk img{display:block;width:100%;height:auto}
+.sk-more{display:none;position:absolute;left:0;right:0;bottom:0;padding:70px 16px 18px;border:0;background:linear-gradient(180deg,rgba(14,22,33,0),#0E1621 62%);color:var(--amber-l);font:inherit;font-size:13.5px;font-weight:700;cursor:pointer;text-align:left}
+.sk.cut .sk-more{display:block}
+.sk-lb{position:fixed;inset:0;z-index:9999;background:rgba(3,8,12,.86);display:grid;place-items:center;padding:24px;overflow:auto;cursor:zoom-out;backdrop-filter:blur(6px)}
+.sk-lb img{width:min(440px,92vw);height:auto;border-radius:22px;box-shadow:0 40px 90px rgba(0,0,0,.6)}
+@media (max-width:680px){.sk-row .sk{height:470px}}
+.sk-row .sk{display:block!important;justify-content:initial!important}
+
+/* 28.09: пять книг, главный мануал на две колонки */
+.books .card.wide{grid-column:span 2}
+@media (max-width:680px){.books .card.wide{grid-column:auto}}
+
+/* 28.09: цифры в блоке о Дарье */
+.dst{display:flex;gap:44px;margin-top:26px;padding-top:24px;border-top:1px solid var(--line)}
+.dst b{display:block;font-family:var(--ft);font-weight:var(--hw);letter-spacing:var(--ls);font-size:clamp(34px,3.4vw,44px);line-height:1;color:var(--amber-l)}
+.dst span{display:block;margin-top:8px;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--mute)}
+@media (max-width:360px){.dst{gap:28px}}
+
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></symbol>
+ <symbol id="i-head" viewBox="0 0 24 24"><path d="M9 21v-3.2c-2.4-1.3-4-3.8-4-6.6A7.5 7.5 0 0 1 12.5 3.7c4 0 7 3 7 6.8 0 1.6-.5 2.8-1.3 3.9l.9 2.3c.2.5-.1 1-.6 1.1l-1.9.3v3"/><circle cx="12" cy="10.5" r="2.2"/><path d="M12 8.3V6.5M9.8 11.6l-1.5.9M14.2 11.6l1.5.9"/></symbol>
+ <symbol id="i-wave" viewBox="0 0 24 24"><path d="M2 12c2 0 2-5 4-5s2 10 4 10 2-12 4-12 2 9 4 9 2-4 4-4"/></symbol>
+ <symbol id="i-len" viewBox="0 0 24 24"><path d="M4 7h8M4 12h12M4 17h16"/><circle cx="19" cy="7" r="1.2"/><circle cx="19" cy="12" r="1.2"/></symbol>
+ <symbol id="i-gauge" viewBox="0 0 24 24"><path d="M4 16a8 8 0 1 1 16 0"/><path d="M12 16l4-6"/><circle cx="12" cy="16" r="1.4"/><path d="M4 20h16"/></symbol>
+ <symbol id="i-line" viewBox="0 0 24 24"><path d="M3 18l5-6 4 3 5-8 4 4"/><path d="M3 21h18"/></symbol>
+ <symbol id="i-flame" viewBox="0 0 24 24"><path d="M12 3c1 3 4 4.5 4 8.5A4 4 0 0 1 8 12c0-1 .3-1.8.8-2.6C9.4 11 10 12 11 12c0-3.5.3-6.5 1-9z"/><path d="M12 21c-3.9 0-7-2.6-7-6.5 0-2.3 1.2-4.2 2.6-5.6"/><path d="M12 21c3.9 0 7-2.6 7-6.5 0-1.6-.6-3-1.3-4.1"/></symbol>
+ <symbol id="i-snow" viewBox="0 0 24 24"><path d="M12 2v20M4 7l16 10M4 17L20 7"/><path d="M12 5l-2-2M12 5l2-2M12 19l-2 2M12 19l2 2M6.6 8.5l-2.7.7M6.6 15.5l-2.7-.7M17.4 8.5l2.7.7M17.4 15.5l2.7-.7"/></symbol>
+ <symbol id="i-buoy" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M5.6 5.6l3.6 3.6M18.4 5.6l-3.6 3.6M5.6 18.4l3.6-3.6M18.4 18.4l-3.6-3.6"/></symbol>
+ <symbol id="i-road" viewBox="0 0 24 24"><path d="M4 21c4-6 4-12 8-18 4 6 4 12 8 18"/><path d="M12 6v2M12 11v2M12 16v2"/></symbol>
+ <symbol id="i-devices" viewBox="0 0 24 24"><rect x="2" y="5" width="14" height="10" rx="2"/><path d="M6 19h6"/><rect x="17" y="9" width="5" height="10" rx="1.5"/><path d="M19.5 17v.01"/></symbol>
+ <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v16H6.5A2.5 2.5 0 0 0 4 21z"/><path d="M4 18.5A2.5 2.5 0 0 1 6.5 16H20"/><path d="M9 8h7"/></symbol>
+ <symbol id="i-chat" viewBox="0 0 24 24"><path d="M4 5h11a3 3 0 0 1 3 3v3a3 3 0 0 1-3 3H9l-4 3v-3a3 3 0 0 1-3-3V8a3 3 0 0 1 3-3z" transform="translate(1 0)"/><path d="M19 9h1a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2v3l-3-3h-3"/></symbol>
+ <symbol id="i-inf" viewBox="0 0 24 24"><path d="M7 15.5c-2 0-3.5-1.6-3.5-3.5S5 8.5 7 8.5c3 0 4 3.5 5 3.5s2-3.5 5-3.5c2 0 3.5 1.6 3.5 3.5S19 15.5 17 15.5c-3 0-4-3.5-5-3.5s-2 3.5-5 3.5z"/></symbol>
+ <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.5 2"/></symbol>
+ <symbol id="i-brain" viewBox="0 0 24 24"><path d="M9.5 3.5A3 3 0 0 0 6 6.3 3 3 0 0 0 4 9a3 3 0 0 0 .8 4.4A3 3 0 0 0 7 18a3 3 0 0 0 3.5 2.4V3.5z"/><path d="M14.5 3.5A3 3 0 0 1 18 6.3 3 3 0 0 1 20 9a3 3 0 0 1-.8 4.4A3 3 0 0 1 17 18a3 3 0 0 1-3.5 2.4V3.5z"/><path d="M10.5 9H8M10.5 14H8.5M13.5 9H16M13.5 14h2"/></symbol>
+ <symbol id="i-heart" viewBox="0 0 24 24"><path d="M12 20s-7-4.5-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.5-7 10-7 10z"/><path d="M6 12h3l1.5-2.5 2 5 1.5-2.5H18"/></symbol>
+ <symbol id="i-eye" viewBox="0 0 24 24"><path d="M2 12s3.5-6 10-6 10 6 10 6-3.5 6-10 6S2 12 2 12z"/><circle cx="12" cy="12" r="3"/></symbol>
+ <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/><path d="M16 4l.6 1.6L18 6l-1.4.4L16 8l-.6-1.6L14 6l1.4-.4z"/></symbol>
+ <symbol id="i-cal" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="16" rx="2.5"/><path d="M3 10h18M8 3v4M16 3v4"/><path d="M8 15l2 2 4-4"/></symbol>
+ <symbol id="i-check" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.5 2.5L16 9.5"/></symbol>
+ <symbol id="i-lock" viewBox="0 0 24 24"><rect x="5" y="10" width="14" height="11" rx="2.5"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/><path d="M12 14.5v2.5"/></symbol>
+ <symbol id="i-users" viewBox="0 0 24 24"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20a6.5 6.5 0 0 1 13 0"/><circle cx="17" cy="9" r="2.5"/><path d="M16 20a5 5 0 0 1 5.5-4.9"/></symbol>
+ <symbol id="i-mic" viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3M9 21h6"/></symbol>
+ <symbol id="i-bell" viewBox="0 0 24 24"><path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15z"/><path d="M10 21a2 2 0 0 0 4 0"/><path d="M12 3v2"/></symbol>
+ <symbol id="i-play" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M10 8.5v7l5.5-3.5z"/></symbol>
+ <symbol id="i-q" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 1 1 3.5 2.3c-.7.4-1 .9-1 1.7"/><path d="M12 17v.01"/></symbol>
+ <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3l8 3.5v5c0 5-3.4 8.4-8 9.5-4.6-1.1-8-4.5-8-9.5v-5z"/><path d="M9 12l2 2 4-4"/></symbol>
+ <symbol id="i-x" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M9 9l6 6M15 9l-6 6"/></symbol>
+ <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></symbol>
+ <symbol id="i-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="M3 8l9 6 9-6"/></symbol>
+ <symbol id="i-card" viewBox="0 0 24 24"><rect x="3" y="6" width="18" height="12" rx="2.5"/><path d="M3 10h18M7 15h4"/></symbol>
+</svg>
+<header class="hero" id="top">
+ <div class="hero-bg" aria-hidden="true"><img src="img2/mozg-hero.webp" alt="" width="1344" height="768" fetchpriority="high"></div>
+ <canvas id="pole" aria-hidden="true"></canvas>
+ <nav class="nav"><div class="wrap">
+  <a class="logo" href="#top"><i></i>Архитектура сознания</a>
+  <a class="btn btn-a" href="#tarify">Занять место<span class="ar"><svg viewBox="0 0 24 24"><path d="M5 12h13M13 6l6 6-6 6"/></svg></span></a>
+ </div></nav>
+ <div class="wrap">
+  <div>
+   <div class="kicker">Поток с&nbsp;3&nbsp;октября</div>
+   <h1>Протокол остановки&nbsp;ума<em>28&nbsp;дней, чтобы в&nbsp;голове стало&nbsp;тихо</em></h1>
+   <p class="lead">15-20&nbsp;минут в&nbsp;день под&nbsp;голос. Система, в&nbsp;которой соединены рассекреченные военные протоколы управления вниманием, нейробиология и&nbsp;работа гормональных механизмов, связи тела и&nbsp;сознания. Всё&nbsp;это мы&nbsp;тренируем как&nbsp;мышцу каждый&nbsp;день.</p>
+   <div class="meta">
+    <b class="st"><svg viewBox="0 0 24 24"><use href="#i-cal"/></svg>Старт&nbsp;3&nbsp;октября</b>
+    <b><svg viewBox="0 0 24 24"><use href="#i-devices"/></svg>Телефон или&nbsp;компьютер</b>
+   </div>
+   <div class="cta-row">
+    <a class="btn btn-a" href="#tarify">Занять место в&nbsp;потоке<span class="ar"><svg viewBox="0 0 24 24"><path d="M5 12h13M13 6l6 6-6 6"/></svg></span></a>
+    <a class="btn btn-g" href="#kabinet">Как&nbsp;это&nbsp;устроено<svg viewBox="0 0 24 24"><use href="#i-arrow"/></svg></a>
+   </div>
+  </div>
+  <div class="hero-vis">
+   <i class="ring r1"></i><i class="ring r2"></i>
+   <div class="phone"><img src="img2/k3-progress.webp" alt="Экран «Мой прогресс» в кабинете: 13 дней подряд, серия, часы в тишине" width="600" height="1298"></div>
+  </div>
+ </div>
+</header>
+
+<section class="strip"><div class="wrap">
+ <div><b data-n="46.9" data-f="1">0<small>%</small></b><span>времени, пока ты&nbsp;не&nbsp;спишь, голова занята не&nbsp;тем, что&nbsp;ты&nbsp;делаешь. Science, 2010</span></div>
+ <div><b data-n="3.3" data-f="1">0<small>%</small></b><span>людей ещё открывают приложение от&nbsp;тревоги <span class="nh">на&nbsp;30-й</span> день. JMIR, 2019</span></div>
+ <div><b data-n="67">0</b><span>исследований в&nbsp;основе программы, у&nbsp;каждого автор, год и&nbsp;журнал</span></div>
+ <div><b data-n="480">0<small>+</small></b><span>человек уже прошли Протокол, среди них известные люди и&nbsp;предприниматели</span></div>
+</div></section>
+
+<section class="sec" id="uznaesh"><div class="wrap">
+ <div class="glow a" style="width:500px;height:500px;right:-10%;top:-10%"></div>
+ <div class="head rv">
+  <div class="kicker">01 · Узнаёшь?</div>
+  <h2>Отметь то, что&nbsp;было с&nbsp;тобой на&nbsp;этой неделе</h2>
+  <p class="lead">Никто не&nbsp;проверяет. Поставь галочки там, где узнал&nbsp;себя.</p>
+ </div>
+ <div class="chk rv" id="chk">
+  <label><input type="checkbox"><span class="box"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg></span><span>Лёг спать, а&nbsp;голова прокручивает вчерашний разговор и&nbsp;строит планы на&nbsp;завтра</span></label>
+  <label><input type="checkbox"><span class="box"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg></span><span>Проснулся уже&nbsp;уставшим, хотя ничего тяжёлого не&nbsp;делал</span></label>
+  <label><input type="checkbox"><span class="box"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg></span><span>Сел за&nbsp;дело, а&nbsp;через пять минут уже листал&nbsp;ленту</span></label>
+  <label><input type="checkbox"><span class="box"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg></span><span>Тревога фоном, без&nbsp;повода, как&nbsp;гул холодильника, который замечаешь, когда он&nbsp;стихает</span></label>
+  <label><input type="checkbox"><span class="box"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg></span><span>Решение давно понятно, а&nbsp;сил его&nbsp;принять&nbsp;нет</span></label>
+  <label><input type="checkbox"><span class="box"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg></span><span>Пробовал медитации или&nbsp;приложения и&nbsp;бросил на&nbsp;первой&nbsp;неделе</span></label>
+ </div>
+ <div class="chk-res rv" id="chkres"><div class="n"><span&nbsp;id="chkn">0</span><small> из&nbsp;6</small></div><p id="chkt">Ответ появится&nbsp;здесь.</p></div>
+</div></section>
+<section class="sec b2" id="mozg"><div class="wrap">
+ <div class="head rv">
+  <div class="kicker">02 · Механизм</div>
+  <h2 class="m23">Голова не&nbsp;выключается, потому&nbsp;что&nbsp;у&nbsp;неё есть режим по&nbsp;умолчанию</h2>
+  <p class="lead">В&nbsp;2001&nbsp;году Маркус Рейчл описал сеть областей, которые включаются, как&nbsp;только человек перестаёт заниматься делом. Она строит планы, крутит вчерашние разговоры и&nbsp;прикидывает, что&nbsp;будет дальше. И&nbsp;всё это сама, без&nbsp;твоего&nbsp;участия.</p>
+ </div>
+ <div class="brainwrap rv">
+  <div class="brainbox mz" id="mz" data-m="rest">
+   <div class="mz-in"><img src="img2/dmn-mozg.webp" alt="Мозг: сеть пассивного режима и сеть контроля" width="627" height="534" loading="lazy"><svg viewBox="0 0 627 534" aria-hidden="true"><g class="g-n"><path d="M297 232 L329 256" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M297 232 L348 200" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M297 232 L258 201" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M297 232 L311 282" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M297 232 L249 269" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M297 232 L360 247" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M297 232 L261 235" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M524 205 L486 182" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M524 205 L503 245" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M169 218 L115 253" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M169 218 L172 282" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M169 218 L136 192" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M169 218 L181 184" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M169 218 L197 244" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M169 218 L211 170" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M169 218 L209 207" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M382 300 L394 249" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M382 300 L356 321" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M382 300 L434 274" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M382 300 L360 247" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M382 300 L427 307" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M382 300 L344 293" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M125 158 L171 140" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M125 158 L94 205" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M125 158 L136 192" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M125 158 L181 184" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M394 249 L434 274" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M394 249 L360 247" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M394 249 L433 238" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M394 249 L380 213" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M334 87 L282 100" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M334 87 L308 122" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M171 140 L231 137" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M171 140 L136 192" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M171 140 L181 184" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M171 140 L200 125" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M171 140 L211 170" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M94 205 L115 253" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M94 205 L136 192" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M291 314 L356 321" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M291 314 L311 282" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M291 314 L249 269" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M291 314 L344 293" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M291 314 L241 298" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M329 256 L348 200" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M329 256 L311 282" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M329 256 L360 247" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M329 256 L344 293" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M300 151 L282 100" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M300 151 L308 122" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M483 275 L503 245" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M483 275 L434 274" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M483 275 L433 238" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M231 137 L200 125" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M231 137 L282 100" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M231 137 L211 170" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M448 186 L486 182" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M448 186 L454 148" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M448 186 L433 238" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><path d="M486 182 L454 148" stroke="rgba(125,196,255,.28)" stroke-width="1.2"/><circle cx="297" cy="232" r="3.4" fill="#7DC4FF" class="nr" style="animation-delay:1.73s;animation-duration:3.8s"/><circle cx="524" cy="205" r="4.6" fill="#7DC4FF" class="nr" style="animation-delay:1.91s;animation-duration:2.8s"/><circle cx="169" cy="218" r="3.5" fill="#7DC4FF" class="nr" style="animation-delay:2.47s;animation-duration:4.1s"/><circle cx="382" cy="300" r="3.4" fill="#7DC4FF" class="nr" style="animation-delay:3.12s;animation-duration:2.2s"/><circle cx="125" cy="158" r="3.5" fill="#7DC4FF" class="nr" style="animation-delay:0.91s;animation-duration:3.6s"/><circle cx="394" cy="249" r="3.7" fill="#7DC4FF" class="nr" style="animation-delay:1.42s;animation-duration:3.4s"/><circle cx="334" cy="87" r="3.4" fill="#7DC4FF" class="nr" style="animation-delay:2.92s;animation-duration:2.4s"/><circle cx="171" cy="140" r="4.0" fill="#7DC4FF" class="nr" style="animation-delay:1.00s;animation-duration:2.6s"/><circle cx="94" cy="205" r="4.0" fill="#7DC4FF" class="nr" style="animation-delay:1.75s;animation-duration:3.0s"/><circle cx="291" cy="314" r="3.9" fill="#7DC4FF" class="nr" style="animation-delay:2.12s;animation-duration:2.5s"/><circle cx="329" cy="256" r="3.5" fill="#7DC4FF" class="nr" style="animation-delay:2.53s;animation-duration:3.5s"/><circle cx="300" cy="151" r="4.0" fill="#7DC4FF" class="nr" style="animation-delay:3.41s;animation-duration:3.4s"/><circle cx="483" cy="275" r="4.6" fill="#7DC4FF" class="nr" style="animation-delay:0.93s;animation-duration:3.7s"/><circle cx="231" cy="137" r="4.5" fill="#7DC4FF" class="nr" style="animation-delay:3.61s;animation-duration:2.8s"/><circle cx="448" cy="186" r="3.7" fill="#7DC4FF" class="nr" style="animation-delay:3.69s;animation-duration:2.6s"/><circle cx="486" cy="182" r="4.8" fill="#7DC4FF" class="nr" style="animation-delay:3.55s;animation-duration:2.5s"/><circle cx="115" cy="253" r="3.6" fill="#7DC4FF" class="nr" style="animation-delay:2.91s;animation-duration:2.7s"/><circle cx="454" cy="148" r="3.4" fill="#7DC4FF" class="nr" style="animation-delay:3.33s;animation-duration:3.0s"/><circle cx="348" cy="200" r="4.5" fill="#7DC4FF" class="nr" style="animation-delay:0.50s;animation-duration:3.0s"/><circle cx="172" cy="282" r="4.3" fill="#7DC4FF" class="nr" style="animation-delay:0.07s;animation-duration:2.6s"/><circle cx="136" cy="192" r="4.3" fill="#7DC4FF" class="nr" style="animation-delay:3.65s;animation-duration:4.1s"/><circle cx="226" cy="327" r="3.4" fill="#7DC4FF" class="nr" style="animation-delay:2.02s;animation-duration:3.7s"/><circle cx="181" cy="184" r="4.0" fill="#7DC4FF" class="nr" style="animation-delay:2.74s;animation-duration:2.6s"/><circle cx="197" cy="244" r="3.3" fill="#7DC4FF" class="nr" style="animation-delay:0.42s;animation-duration:2.3s"/><circle cx="258" cy="201" r="4.1" fill="#7DC4FF" class="nr" style="animation-delay:2.06s;animation-duration:3.3s"/><circle cx="356" cy="321" r="3.4" fill="#7DC4FF" class="nr" style="animation-delay:0.74s;animation-duration:2.6s"/><circle cx="200" cy="125" r="4.5" fill="#7DC4FF" class="nr" style="animation-delay:3.96s;animation-duration:4.1s"/><circle cx="503" cy="245" r="3.4" fill="#7DC4FF" class="nr" style="animation-delay:0.25s;animation-duration:4.1s"/><circle cx="282" cy="100" r="3.9" fill="#7DC4FF" class="nr" style="animation-delay:3.06s;animation-duration:2.9s"/><circle cx="366" cy="155" r="3.9" fill="#7DC4FF" class="nr" style="animation-delay:2.06s;animation-duration:3.1s"/><circle cx="311" cy="282" r="4.2" fill="#7DC4FF" class="nr" style="animation-delay:0.05s;animation-duration:3.6s"/><circle cx="434" cy="274" r="4.6" fill="#7DC4FF" class="nr" style="animation-delay:0.73s;animation-duration:3.1s"/><circle cx="249" cy="269" r="4.4" fill="#7DC4FF" class="nr" style="animation-delay:1.62s;animation-duration:2.6s"/><circle cx="360" cy="247" r="3.5" fill="#7DC4FF" class="nr" style="animation-delay:2.05s;animation-duration:2.2s"/><circle cx="433" cy="238" r="4.6" fill="#7DC4FF" class="nr" style="animation-delay:3.21s;animation-duration:3.6s"/><circle cx="120" cy="288" r="4.6" fill="#7DC4FF" class="nr" style="animation-delay:2.52s;animation-duration:3.0s"/><circle cx="380" cy="213" r="4.2" fill="#7DC4FF" class="nr" style="animation-delay:2.02s;animation-duration:4.2s"/><circle cx="409" cy="128" r="4.5" fill="#7DC4FF" class="nr" style="animation-delay:1.03s;animation-duration:4.0s"/><circle cx="308" cy="122" r="4.4" fill="#7DC4FF" class="nr" style="animation-delay:3.11s;animation-duration:3.8s"/><circle cx="211" cy="170" r="3.8" fill="#7DC4FF" class="nr" style="animation-delay:3.59s;animation-duration:4.0s"/><circle cx="261" cy="235" r="4.3" fill="#7DC4FF" class="nr" style="animation-delay:3.07s;animation-duration:3.7s"/><circle cx="427" cy="307" r="3.8" fill="#7DC4FF" class="nr" style="animation-delay:2.89s;animation-duration:2.3s"/><circle cx="344" cy="293" r="3.7" fill="#7DC4FF" class="nr" style="animation-delay:1.88s;animation-duration:2.2s"/><circle cx="241" cy="298" r="3.8" fill="#7DC4FF" class="nr" style="animation-delay:2.55s;animation-duration:3.4s"/><circle cx="180" cy="317" r="3.6" fill="#7DC4FF" class="nr" style="animation-delay:3.78s;animation-duration:3.5s"/><circle cx="209" cy="207" r="3.7" fill="#7DC4FF" class="nr" style="animation-delay:2.64s;animation-duration:3.3s"/></g><g class="g-d"><defs><radialGradient id="dg"><stop offset="0" stop-color="#ffb070" stop-opacity=".95"/><stop offset=".45" stop-color="#ff7a4a" stop-opacity=".45"/><stop offset="1" stop-color="#ff7a4a" stop-opacity="0"/></radialGradient></defs><path id="de0" d="M112 212 Q257 141 402 150" fill="none" stroke="rgba(255,170,120,.35)" stroke-width="1.6"/><circle r="4" fill="#ffd9b8"><animateMotion dur="1.6s" begin="0.0s" repeatCount="indefinite"><mpath href="#de0"/></animateMotion></circle><path id="de1" d="M402 150 Q437 146 472 222" fill="none" stroke="rgba(255,170,120,.35)" stroke-width="1.6"/><circle r="4" fill="#ffd9b8"><animateMotion dur="1.9s" begin="0.3s" repeatCount="indefinite"><mpath href="#de1"/></animateMotion></circle><path id="de2" d="M112 212 Q206 222 300 312" fill="none" stroke="rgba(255,170,120,.35)" stroke-width="1.6"/><circle r="4" fill="#ffd9b8"><animateMotion dur="2.1s" begin="0.7s" repeatCount="indefinite"><mpath href="#de2"/></animateMotion></circle><path id="de3" d="M300 312 Q351 191 402 150" fill="none" stroke="rgba(255,170,120,.35)" stroke-width="1.6"/><circle r="4" fill="#ffd9b8"><animateMotion dur="2.4s" begin="1.0s" repeatCount="indefinite"><mpath href="#de3"/></animateMotion></circle><path id="de4" d="M472 222 Q386 227 300 312" fill="none" stroke="rgba(255,170,120,.35)" stroke-width="1.6"/><circle r="4" fill="#ffd9b8"><animateMotion dur="2.6s" begin="1.4s" repeatCount="indefinite"><mpath href="#de4"/></animateMotion></circle><path id="de5" d="M112 212 Q190 234 268 336" fill="none" stroke="rgba(255,170,120,.35)" stroke-width="1.6"/><circle r="4" fill="#ffd9b8"><animateMotion dur="2.9s" begin="1.8s" repeatCount="indefinite"><mpath href="#de5"/></animateMotion></circle><path id="de6" d="M268 336 Q335 203 402 150" fill="none" stroke="rgba(255,170,120,.35)" stroke-width="1.6"/><circle r="4" fill="#ffd9b8"><animateMotion dur="3.1s" begin="2.1s" repeatCount="indefinite"><mpath href="#de6"/></animateMotion></circle><circle cx="112" cy="212" r="46" fill="url(#dg)" class="dn" style="animation-delay:0.0s"/><circle cx="112" cy="212" r="6" fill="#fff1e0"/><circle cx="402" cy="150" r="46" fill="url(#dg)" class="dn" style="animation-delay:0.4s"/><circle cx="402" cy="150" r="6" fill="#fff1e0"/><circle cx="472" cy="222" r="46" fill="url(#dg)" class="dn" style="animation-delay:0.8s"/><circle cx="472" cy="222" r="6" fill="#fff1e0"/><circle cx="300" cy="312" r="46" fill="url(#dg)" class="dn" style="animation-delay:1.2s"/><circle cx="300" cy="312" r="6" fill="#fff1e0"/><circle cx="268" cy="336" r="46" fill="url(#dg)" class="dn" style="animation-delay:1.6s"/><circle cx="268" cy="336" r="6" fill="#fff1e0"/></g><g class="g-c"><defs><radialGradient id="cg"><stop offset="0" stop-color="#6FF0DC" stop-opacity="1"/><stop offset=".45" stop-color="#3FD6C2" stop-opacity=".55"/><stop offset="1" stop-color="#3FD6C2" stop-opacity="0"/></radialGradient><filter id="cgl"><feGaussianBlur stdDeviation="2.2"/></filter></defs><path id="ce0" d="M205 138 L312 172" stroke="rgba(111,240,220,.6)" stroke-width="2" fill="none"/><circle r="3.6" fill="#DFFFFA"><animateMotion dur="2.2s" begin="0.0s" repeatCount="indefinite"><mpath href="#ce0"/></animateMotion></circle><path id="ce1" d="M312 172 L438 124" stroke="rgba(111,240,220,.6)" stroke-width="2" fill="none"/><circle r="3.6" fill="#DFFFFA"><animateMotion dur="2.6s" begin="0.5s" repeatCount="indefinite"><mpath href="#ce1"/></animateMotion></circle><path id="ce2" d="M205 138 L438 124" stroke="rgba(111,240,220,.6)" stroke-width="2" fill="none"/><circle r="3.6" fill="#DFFFFA"><animateMotion dur="3.0s" begin="1.0s" repeatCount="indefinite"><mpath href="#ce2"/></animateMotion></circle><circle cx="205" cy="138" r="52" fill="url(#cg)" class="dn" style="animation-delay:0.0s"/><circle cx="205" cy="138" r="5.5" fill="#e8fffb"/><circle cx="312" cy="172" r="52" fill="url(#cg)" class="dn" style="animation-delay:0.5s"/><circle cx="312" cy="172" r="5.5" fill="#e8fffb"/><circle cx="438" cy="124" r="52" fill="url(#cg)" class="dn" style="animation-delay:1.0s"/><circle cx="438" cy="124" r="5.5" fill="#e8fffb"/></g><g class="g-l"><path d="M402 150 Q300 78 205 138" stroke="#ffe3c2" stroke-width="7" fill="none" opacity=".35" filter="url(#cgl)"/><path id="lk" d="M402 150 Q300 78 205 138" stroke="#fff1de" stroke-width="2.4" fill="none" stroke-dasharray="7 6"/><circle r="5" fill="#fff"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#lk"/></animateMotion></circle><circle r="5" fill="#fff"><animateMotion dur="2.2s" begin="1.1s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#lk"/></animateMotion></circle></g></svg><span class="bl2 d" style="left:18%;top:40%;transform:translate(-18%,38%)">Медиальная префронтальная&nbsp;кора</span><span class="bl2 d" style="left:64%;top:28%;transform:translate(-40%,42%)">Задняя поясная&nbsp;кора</span><span class="bl2 c" style="left:32.7%;top:25.8%">Дорсолатеральная префронтальная&nbsp;кора</span><span class="bl2 c" style="left:69.9%;top:23.2%">Теменная&nbsp;кора</span></div>
+   <div class="mz-leg"><span><i class="d"></i>Сеть&nbsp;покоя</span><span><i class="c"></i>Сеть&nbsp;контроля</span><span><i class="n"></i>Нейроны</span></div>
+   <div class="meterbox"><span>Активность сети&nbsp;покоя</span><div class="meter"><i id="brainmeter"></i></div></div>
+  </div>
+  <div class="brainside">
+   <div class="sw v" id="brainsw"><button type="button" data-m="rest" class="on">Отдыхаю</button><button type="button" data-m="task">Занят делом</button><button type="button" data-m="trained">Годы практики</button></div>
+   <h3 id="dmnh">Ты&nbsp;сел отдохнуть, а&nbsp;сеть включилась на&nbsp;полную</h3>
+   <p id="dmnp">Пока у&nbsp;тебя нет дела, эти области активнее всего: медиальная префронтальная кора спереди, задняя поясная кора и&nbsp;предклинье сзади. Здесь и&nbsp;крутятся мысли по&nbsp;кругу, пересказ дня и&nbsp;тревога о&nbsp;завтрашнем дне. Чем чаще человек витает в&nbsp;облаках, тем ярче эта сеть горит у&nbsp;него в&nbsp;сканере.</p>
+   <p class="src" id="dmns">Raichle&nbsp;M.E.&nbsp;et&nbsp;al., PNAS, 2001 · Mason&nbsp;M.F.&nbsp;et&nbsp;al., Science, 2007</p>
+  </div>
+ </div>
+</div></section>
+
+<section class="sec" id="polovina"><div class="wrap">
+ <div class="split" style="align-items:start">
+  <div class="rv">
+   <div class="kicker">03 · Сколько это&nbsp;отнимает</div>
+   <h2 class="pol-h2">Почти&nbsp;половина дня проходит без&nbsp;тебя</h2>
+   <p class="lead">Мэтт Киллингсворт и&nbsp;Дэниел Гилберт сделали приложение, которое в&nbsp;случайные моменты дня спрашивало людей: о&nbsp;чём ты&nbsp;сейчас думаешь? Ответили 2250&nbsp;взрослых из&nbsp;83&nbsp;стран.</p>
+   <div class="big" style="margin:30px 0 10px">46,9<small>%</small></div>
+   <p>замеров: мысли не&nbsp;о&nbsp;том, что&nbsp;человек делает. Ни&nbsp;при&nbsp;одном занятии, кроме секса, эта&nbsp;доля не&nbsp;опускалась ниже&nbsp;30%. И&nbsp;в&nbsp;такие моменты люди чувствовали себя менее счастливыми, причём сначала уходили мысли, а&nbsp;уже&nbsp;потом падало&nbsp;настроение.</p>
+   <p class="src">Killingsworth&nbsp;M.A., Gilbert&nbsp;D.T., Science, 2010</p>
+  </div>
+  <div class="rv d1">
+   <div class="tochki" id="tochki" aria-hidden="true"></div>
+   <div class="legend"><span><i class="a"></i>469&nbsp;раз из&nbsp;1000&nbsp;ум&nbsp;был не&nbsp;здесь</span><span><i></i>531&nbsp;раз он&nbsp;был с&nbsp;тобой</span></div>
+   <div class="card" style="margin-top:28px">
+    <div class="ik"><svg><use href="#i-x"/></svg></div>
+    <h3>Люди били себя током, лишь&nbsp;бы&nbsp;не&nbsp;сидеть в&nbsp;тишине</h3>
+    <p>В&nbsp;одиннадцати опытах человека оставляли в&nbsp;пустой комнате <span class="nh">на&nbsp;6-15</span>&nbsp;минут наедине с&nbsp;собственными мыслями. Под&nbsp;рукой была кнопка, которая бьёт током, и&nbsp;заранее люди говорили, что&nbsp;заплатили бы, лишь&nbsp;бы&nbsp;этого удара не&nbsp;получать. Многие всё&nbsp;равно&nbsp;нажимали.</p>
+    <p class="src">Wilson&nbsp;T.D.&nbsp;et&nbsp;al., Science, 2014</p>
+   </div>
+  </div>
+ </div>
+</div></section>
+
+<section class="sec b2" id="trenirovka"><div class="wrap">
+ <div class="glow a" style="width:520px;height:520px;right:-8%;bottom:-10%"></div>
+ <div class="head rv">
+  <div class="kicker">04 · Почему это&nbsp;тренируется</div>
+  <h2 class="m28">Каждый раз, когда внимание ушло и&nbsp;вернулось&nbsp;– это&nbsp;одно&nbsp;повторение</h2>
+  <p class="lead">Усилием «не&nbsp;думать» тишины в&nbsp;голове не&nbsp;добиться. Её&nbsp;даёт один навык: заметить, что&nbsp;отвлёкся, и&nbsp;вернуться. С&nbsp;каждым разом он&nbsp;крепнет и&nbsp;переносится в&nbsp;обычную&nbsp;жизнь.</p>
+ </div>
+ <div class="split" style="align-items:stretch">
+  <div class="vnim rv">
+   <canvas id="vnim" width="600" height="400" aria-label="Внимание уходит к мысли, замечает и возвращается"></canvas>
+   <div class="cnt"><b id="vnimn">0</b><span>повторений<br>за&nbsp;одно&nbsp;занятие</span></div>
+   <div class="lbl">Внимание ушло, ты&nbsp;заметил и&nbsp;вернул его. Так это и&nbsp;тренируется.</div>
+  </div>
+  <div class="rv d1" style="display:grid;gap:22px">
+   <div class="card">
+    <h3>Четырнадцать&nbsp;дней, и&nbsp;посторонних мыслей&nbsp;меньше</h3>
+    <p>В&nbsp;рандомизированном исследовании студенты две недели занимались, и&nbsp;у&nbsp;них выросли результаты экзамена GRE и&nbsp;объём рабочей памяти, а&nbsp;во&nbsp;время теста они реже отвлекались. Прибавку дало именно то, что&nbsp;ум&nbsp;меньше уходил в&nbsp;сторону, и&nbsp;больше всех выиграли те, кто до&nbsp;этого был самым&nbsp;рассеянным.</p>
+    <p class="src">Mrazek&nbsp;M.D.&nbsp;et&nbsp;al., Psychological Science, 2013</p>
+   </div>
+   <div class="card">
+    <h3>Что&nbsp;именно даёт результат</h3>
+    <p>Людей разделили на&nbsp;три группы. Первая училась и&nbsp;замечать, и&nbsp;принимать, у&nbsp;второй из&nbsp;программы убрали часть про&nbsp;принятие, третья ничего не&nbsp;делала. У&nbsp;тех, кто занимался в&nbsp;первых двух, внимание в&nbsp;обычной жизни стало слушаться лучше. Всё держалось на&nbsp;самом простом движении: заметил и&nbsp;вернулся.</p>
+    <p class="src">Chin&nbsp;B.&nbsp;et&nbsp;al., Journal of Experimental Psychology: General, 2021</p>
+   </div>
+  </div>
+ </div>
+</div></section>
+<section class="sec" id="telo"><div class="wrap">
+ <div class="head rv">
+  <div class="kicker">05 · Тело</div>
+  <h2 class="m23">Чем точнее мозг слышит сердце, тем меньше&nbsp;тревоги</h2>
+  <p class="lead">Мозг постоянно считывает сигналы тела: как&nbsp;стучит в&nbsp;груди, как&nbsp;идёт дыхание, где&nbsp;зажато. Это чувство называют интероцепцией. Сбой этого канала исследователи всё чаще находят при&nbsp;тревоге, расстройствах пищевого поведения и&nbsp;зависимостях. И&nbsp;этот канал можно натренировать.</p>
+ </div>
+ <div class="brainwrap tw rv">
+  <figure class="hbf"><div class="hbx"><img src="img2/serdce-mozg.webp" alt="Сердце и&nbsp;мозг, соединённые нервом" width="896" height="1152" loading="lazy"><svg viewBox="0 0 896 1152" preserveAspectRatio="xMidYMid slice" aria-hidden="true"><defs><radialGradient id="hbr"><stop offset="0" stop-color="#7DC4FF" stop-opacity=".75"/><stop offset="1" stop-color="#7DC4FF" stop-opacity="0"/></radialGradient><radialGradient id="hbh"><stop offset="0" stop-color="#ff7a5c" stop-opacity=".6"/><stop offset="1" stop-color="#ff7a5c" stop-opacity="0"/></radialGradient><filter id="hbf" x="-2" y="-2" width="5" height="5"><feGaussianBlur stdDeviation="5"/></filter></defs><ellipse class="hb-glow" cx="470" cy="190" rx="200" ry="140" fill="url(#hbr)"/><circle cx="440" cy="900" r="120" fill="url(#hbh)"><animate attributeName="r" values="90;150;90" dur="1.1s" repeatCount="indefinite"/><animate attributeName="opacity" values=".9;.2;.9" dur="1.1s" repeatCount="indefinite"/></circle><path id="nerv" d="M440 860 C440 790 446 740 452 700 C458 600 462 480 470 320" fill="none"/><g><circle r="14" fill="#ffb49e" opacity=".55" filter="url(#hbf)"/><circle r="5" fill="#fff4ef"/><animateMotion dur="1.8s" begin="0s" repeatCount="indefinite" rotate="auto"><mpath href="#nerv"/></animateMotion></g><g><circle r="14" fill="#ffb49e" opacity=".55" filter="url(#hbf)"/><circle r="5" fill="#fff4ef"/><animateMotion dur="1.8s" begin="0.3s" repeatCount="indefinite" rotate="auto"><mpath href="#nerv"/></animateMotion></g><g><circle r="14" fill="#ffb49e" opacity=".55" filter="url(#hbf)"/><circle r="5" fill="#fff4ef"/><animateMotion dur="1.8s" begin="0.6s" repeatCount="indefinite" rotate="auto"><mpath href="#nerv"/></animateMotion></g><g><circle r="14" fill="#ffb49e" opacity=".55" filter="url(#hbf)"/><circle r="5" fill="#fff4ef"/><animateMotion dur="1.8s" begin="0.9s" repeatCount="indefinite" rotate="auto"><mpath href="#nerv"/></animateMotion></g><g><circle r="14" fill="#ffb49e" opacity=".55" filter="url(#hbf)"/><circle r="5" fill="#fff4ef"/><animateMotion dur="1.8s" begin="1.2s" repeatCount="indefinite" rotate="auto"><mpath href="#nerv"/></animateMotion></g><g><circle r="14" fill="#ffb49e" opacity=".55" filter="url(#hbf)"/><circle r="5" fill="#fff4ef"/><animateMotion dur="1.8s" begin="1.5s" repeatCount="indefinite" rotate="auto"><mpath href="#nerv"/></animateMotion></g><g><circle r="14" fill="#7DC4FF" opacity=".55" filter="url(#hbf)"/><circle r="5" fill="#eaf6ff"/><animateMotion dur="2.6s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#nerv"/></animateMotion></g></svg></div><figcaption class="hbcap"><b>Интероцепция</b><span>Сигнал идёт снизу вверх: мозг считывает удары сердца, и&nbsp;ярче всего это видно в&nbsp;правой передней островковой&nbsp;доле.</span><i>фМРТ · Critchley et&nbsp;al., 2004</i></figcaption></figure>
+  <div class="brainside">
+   <h3>Двадцать два человека учились слышать свой пульс, и&nbsp;им&nbsp;стало&nbsp;спокойнее</h3>
+   <p>В&nbsp;2024&nbsp;году группа Сугавары тренировала у&nbsp;добровольцев чувство собственного сердцебиения. После курса они точнее ловили удары, тревога снизилась, телесных симптомов стало меньше. А&nbsp;островковая доля, которая принимает сигналы тела, крепче связалась с&nbsp;префронтальной корой, отвечающей за&nbsp;контроль внимания и&nbsp;реакций.</p>
+   <p style="margin-top:12px">В&nbsp;жизни это значит простое: напряжение в&nbsp;теле замечаешь раньше и&nbsp;успеваешь его отпустить, пока оно не&nbsp;разрослось в&nbsp;тревожные мысли. Утренняя практика каждый день возвращает внимание из&nbsp;головы в&nbsp;тело, так и&nbsp;тренируется этот&nbsp;слух.</p>
+   <p class="src">Sugawara&nbsp;A.&nbsp;et&nbsp;al., Translational Psychiatry, 2024 · Khalsa&nbsp;S.S.&nbsp;et&nbsp;al., Biological Psychiatry: CNNI, 2018 · Critchley&nbsp;H.D.&nbsp;et&nbsp;al., Nature Neuroscience, 2004</p>
+  </div>
+ </div>
+</div></section>
+<section class="sec" id="pochemu"><div class="wrap">
+ <div class="head rv">
+  <div class="kicker">06&nbsp;· Почему раньше не&nbsp;получалось</div>
+  <h2>Скачал, послушал два&nbsp;дня, забыл. Так&nbsp;делают почти&nbsp;все</h2>
+  <p class="lead">Обычно бывает так: заметил, что&nbsp;мысль увела, на&nbsp;пару секунд вернулся, и&nbsp;на&nbsp;этом всё. Пару дней так, потом забыл. А&nbsp;навык растёт только от&nbsp;повторений каждый день, как&nbsp;мышца. Кривая ниже показывает, сколько людей на&nbsp;самом деле открывают приложение день за&nbsp;днём.</p>
+ </div>
+ <div class="split" style="align-items:stretch">
+  <div class="curve rv">
+   <svg viewBox="-28 0 584 268">
+    <defs><linearGradient id="gr-rose" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#D07A6A" stop-opacity=".35"/><stop offset="1" stop-color="#D07A6A" stop-opacity="0"/></linearGradient></defs>
+    <line class="grid" x1="40" y1="40" x2="540" y2="40"/><line class="grid" x1="40" y1="130" x2="540" y2="130"/><line class="grid" x1="40" y1="220" x2="540" y2="220"/><line class="grid" x1="40" y1="260" x2="540" y2="260"/>
+    <text x="30" y="44" text-anchor="end">100%</text><text x="30" y="134" text-anchor="end">50%</text><text x="30" y="264" text-anchor="end">0</text>
+    <path class="ar" d="M40 40 C 70 200, 110 245, 190 252 L 540 257 L 540 260 L 40 260 Z"/>
+    <path class="ln" d="M40 40 C 70 200, 110 245, 190 252 L 540 257"/>
+    <circle class="pt" cx="40" cy="40" r="4"/><circle class="pt" cx="190" cy="252" r="4"/><circle class="pt" cx="290" cy="254" r="4"/><circle class="pt" cx="540" cy="257" r="4"/>
+    <text class="b" x="46" y="30">установка</text>
+    <text class="b" x="166" y="240">день 15 · 3,9%</text>
+    <text class="b" x="540" y="242" text-anchor="end">день 30 · 3,3%</text>
+   </svg>
+   <p class="cap">Почти все уходят в&nbsp;первые дни. Дальше кривая&nbsp;выравнивается.</p>
+   <div class="lyudi" id="lyudi" aria-hidden="true"></div><p class="src" style="margin:8px 0 0">Сто человек установили приложение. Смотри, сколько остаётся к&nbsp;пятнадцатому и&nbsp;тридцатому&nbsp;дню.</p>
+   <div class="cstat"><div><b>3,9<small>%</small></b><span>остаются к&nbsp;15&nbsp;дню</span></div><div><b>3,3<small>%</small></b><span>доходят&nbsp;до&nbsp;30&nbsp;дня</span></div><div><b>17<small>%</small></b><span>заходят&nbsp;ежедневно там,&nbsp;где есть&nbsp;сообщество</span></div><div><b>1,6<small>%</small></b><span>там, где есть только дыхательные&nbsp;упражнения</span></div></div>
+   <p class="src">Медиана по&nbsp;93&nbsp;приложениям для&nbsp;тревоги и&nbsp;настроения. Считали, сколько раз их&nbsp;действительно открывали, без&nbsp;опросов и&nbsp;отчётов разработчиков. Там, где есть сообщество, каждый день заходят 17% против 4% в&nbsp;среднем. Baumel A. et al., JMIR, 2019</p>
+  </div>
+  <div class="rv d1" style="display:grid;gap:22px">
+   <div class="card">
+    <h3>«21&nbsp;день» придумал пластический&nbsp;хирург</h3>
+    <p>Число взято из&nbsp;его&nbsp;книги 1960&nbsp;года, из&nbsp;наблюдений за&nbsp;пациентами. Когда привычку измерили, вышло иначе: медианы <span style="white-space:nowrap">59-66</span>&nbsp;дней, разброс между людьми от&nbsp;4&nbsp;до&nbsp;335. Крепче в&nbsp;среднем держатся утренние привычки и&nbsp;те, что&nbsp;человек выбрал&nbsp;сам.</p>
+    <div class="habit">
+     <span class="old" style="left:6.3%">«21&nbsp;день»</span>
+     <div class="track"><div class="rng"></div><div class="med" style="left:17.6%;width:2.1%"></div></div>
+     <span class="mk" style="left:1.2%"><b>4</b>дня</span>
+     <span class="mk a x" style="left:18.6%"><b>59-66</b>медиана</span>
+     <span class="mk" style="left:98%"><b>335</b>дней</span>
+    </div>
+    <p class="src" style="margin-top:60px">Singh&nbsp;B.&nbsp;et&nbsp;al., Healthcare, 2024: 20&nbsp;работ, 2601&nbsp;участник · Lally&nbsp;P.&nbsp;et&nbsp;al., European Journal of Social Psychology, 2010</p>
+   </div>
+   <div class="card">
+    <h3>Что&nbsp;на&nbsp;самом деле возвращает людей</h3>
+    <p>На&nbsp;61&nbsp;293&nbsp;людях сравнили 54&nbsp;программы удержания по&nbsp;одному объективному показателю. Лучшей оказалась та, что&nbsp;давала маленькую награду за&nbsp;<b style="color:var(--ink)">возвращение после пропуска</b>. Безупречной серии никто не&nbsp;требовал.</p>
+    <p class="src">Milkman&nbsp;K.L.&nbsp;et&nbsp;al., Nature, 2021</p>
+   </div>
+  </div>
+ </div>
+ <div class="card ins rv" style="margin-top:22px;background:linear-gradient(135deg,rgba(217,154,62,.16),rgba(217,154,62,.03));border-color:rgba(217,154,62,.3)">
+  <div class="ik" style="margin:0"><svg><use href="#i-shield"/></svg></div>
+  <p style="font-size:17px;color:var(--ink)">Поэтому в&nbsp;Протоколе нужна система, а&nbsp;не&nbsp;сила воли. Тренировка идёт каждый день и&nbsp;занимает 15-20&nbsp;минут: за&nbsp;одно занятие внимание уходит и&nbsp;возвращается много раз, и&nbsp;навык крепнет от&nbsp;дня к&nbsp;дню. Второй и&nbsp;третий день мы&nbsp;считаем главными, потому&nbsp;что именно тогда люди чаще всего бросают. Практика идёт в&nbsp;одно и&nbsp;то&nbsp;же&nbsp;время, каждый день приходит напоминание, а&nbsp;после 28&nbsp;дня путь продолжается.</p>
+ </div>
+</div></section>
+<section class="sec b2" id="chto-novogo"><div class="wrap">
+ <div class="glow a" style="width:560px;height:560px;left:-12%;bottom:-20%"></div>
+ <div class="head rv">
+  <div class="kicker">07 · Что&nbsp;внутри</div>
+  <h2 class="m24">Как&nbsp;выглядит Протокол остановки&nbsp;ума</h2>
+  <p class="lead">Его прошли уже больше 480&nbsp;человек, среди них известные люди и&nbsp;крупные предприниматели. Теперь программа стала удобнее: всё собрано в&nbsp;приложении с&nbsp;личным кабинетом, где&nbsp;видны твои результаты и&nbsp;прогресс.</p>
+ </div>
+ <div class="vs-grid kv rv">
+  <div class="card"><div class="ik"><svg><use href="#i-road"/></svg></div><h3>День открывается&nbsp;сам</h3><p>Утром на&nbsp;экране уже твой день: какую запись слушать, сколько она длится и&nbsp;зачем она именно&nbsp;сегодня.</p></div>
+  <div class="card"><div class="ik"><svg><use href="#i-bell"/></svg></div><h3>Не&nbsp;потеряется среди&nbsp;дел</h3><p>Каждый день приходит напоминание, чтобы практика шла в&nbsp;одно и&nbsp;то&nbsp;же&nbsp;время.</p></div>
+  <div class="card"><div class="ik"><svg><use href="#i-gauge"/></svg></div><h3>Видно, что&nbsp;меняется</h3><p>В&nbsp;начале и&nbsp;в&nbsp;конце пути ты&nbsp;отвечаешь на&nbsp;четыре вопроса о&nbsp;своём состоянии, а&nbsp;после каждой практики ставишь оценку. Так сдвиг видно в&nbsp;цифрах.</p></div>
+  <div class="card"><div class="ik"><svg><use href="#i-mic"/></svg></div><h3>Голос Дарьи</h3><p>Каждую практику ведёт Дарья: остаётся только слушать и&nbsp;делать, запоминать ничего не&nbsp;придётся.</p></div>
+  <div class="card"><div class="ik"><svg><use href="#i-snow"/></svg></div><h3>Пропуск не&nbsp;обнуляет</h3><p>Выпал на&nbsp;день, начинать заново не&nbsp;нужно. Продолжаешь с&nbsp;того места, где&nbsp;остановился.</p></div>
+  <div class="card"><div class="ik"><svg><use href="#i-inf"/></svg></div><h3>Остаётся с&nbsp;тобой навсегда</h3><p>После 28&nbsp;дней все практики и&nbsp;книги остаются у&nbsp;тебя. Возвращаться к&nbsp;ним можно в&nbsp;любое&nbsp;время.</p></div>
+ </div>
+</div></section>
+
+<section class="sec" id="kabinet"><div class="wrap">
+ <div class="head rv">
+  <div class="kicker">08 · Личный кабинет</div>
+  <h2>Открыл утром, и&nbsp;уже&nbsp;понятно, что&nbsp;делать</h2>
+  <p class="lead">Кабинет открывается в&nbsp;браузере на&nbsp;телефоне или&nbsp;компьютере и&nbsp;ставится на&nbsp;экран как&nbsp;приложение. Прогресс хранится в&nbsp;твоём аккаунте: открыл с&nbsp;другого устройства, всё на&nbsp;месте. Ниже настоящие скриншоты: замер на&nbsp;входе и&nbsp;девятый день&nbsp;пути.</p>
+ </div>
+ <div class="devices rv">
+  <div class="lap"><div class="scr"><img src="img2/k3-pk-progress.webp" alt="Кабинет на компьютере: мой прогресс" loading="lazy" width="1600" height="806"></div><div class="base"></div></div>
+  <div class="ph1"><div class="phone"><img src="img2/k3-tochka.webp" alt="Замер на входе: точка А по четырём шкалам" loading="lazy" width="600" height="1298"></div></div>
+  <div class="ph2"><div class="phone"><img src="img2/k3-put.webp" alt="Путь 28 дней" loading="lazy" width="600" height="1298"></div></div>
+ </div>
+ <div class="feat">
+  <div class="card rv"><div class="ik"><svg><use href="#i-sun"/></svg></div><h3>День открывается сам</h3><p>Номер дня и&nbsp;практика на&nbsp;сегодня. Одна кнопка&nbsp;«Начать».</p></div>
+  <div class="card rv d1"><div class="ik"><svg><use href="#i-mic"/></svg></div><h3>От&nbsp;простого к&nbsp;сложному</h3><p>Каждая новая запись добавляет одно умение к&nbsp;тому, что&nbsp;уже&nbsp;получается.</p></div>
+  <div class="card rv d2"><div class="ik"><svg><use href="#i-book"/></svg></div><h3>Библиотека</h3><p>Пять книг по&nbsp;науке и&nbsp;методу, читать можно прямо в&nbsp;приложении.</p></div>
+  <div class="card rv d3"><div class="ik"><svg><use href="#i-gauge"/></svg></div><h3>Замер до&nbsp;и&nbsp;после</h3><p>Четыре шкалы в&nbsp;начале и&nbsp;в&nbsp;конце пути, разница в&nbsp;цифрах.</p></div>
+  <div class="card rv"><div class="ik t"><svg><use href="#i-line"/></svg></div><h3>Линия состояния</h3><p>Один вопрос после практики. По&nbsp;дням складывается твоя&nbsp;кривая.</p></div>
+  <div class="card rv d1"><div class="ik t"><svg><use href="#i-flame"/></svg></div><h3>Серия дней</h3><p>Дни подряд копятся. Пропустил один, ничего не&nbsp;сгорает.</p></div>
+  <div class="card rv d2"><div class="ik t"><svg><use href="#i-users"/></svg></div><h3>Канал потока</h3><p>Все начинают в&nbsp;один день и&nbsp;идут вместе.</p></div>
+  <div class="card rv d3"><div class="ik t"><svg><use href="#i-inf"/></svg></div><h3>Замер до&nbsp;и&nbsp;после</h3><p>Четыре вопроса в&nbsp;начале и&nbsp;в&nbsp;конце пути, разница видна в&nbsp;цифрах.</p></div>
+ </div>
+ <div class="gal-nav rv" style="margin-top:40px"><button type="button" data-g="-1" aria-label="Назад"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button><button type="button" data-g="1" aria-label="Дальше"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button></div>
+ <div class="gal" id="gal">
+  <figure><div class="phone"><img src="img2/k3-tochka.webp" alt="Точка А" loading="lazy" width="600" height="1298"></div><figcaption><b>Точка А</b><span>Первый вход: четыре шкалы от&nbsp;единицы до&nbsp;десятки. <span class="nh">На&nbsp;28-й</span> день те&nbsp;же&nbsp;вопросы, и&nbsp;разница видна в&nbsp;цифрах.</span></figcaption></figure>
+  <figure><div class="phone"><img src="img2/k3-progress.webp" alt="Прогресс" loading="lazy" width="600" height="1298"></div><figcaption><b>Прогресс</b><span>Дни, серия, часы в&nbsp;тишине, кольцо пути. Только то, что&nbsp;ты&nbsp;отметил&nbsp;сам.</span></figcaption></figure>
+  <figure><div class="phone"><img src="img2/k3-put.webp" alt="Путь" loading="lazy" width="600" height="1298"></div><figcaption><b>Путь 28&nbsp;дней</b><span>Пройденные дни отмечены, следующий открывается&nbsp;утром.</span></figcaption></figure>
+ </div>
+</div></section>
+<section class="sec b2" id="den"><div class="wrap">
+ <div class="head rv">
+  <div class="kicker">09 · Один день</div>
+  <h2 class="m22">Пятнадцать минут утром, и&nbsp;ничего не&nbsp;нужно искать</h2>
+  <p class="lead">Ты&nbsp;садишься, надеваешь наушники, остальное уже&nbsp;собрано. Вот&nbsp;как&nbsp;выглядит один&nbsp;день.</p>
+ </div>
+ <div class="day rv">
+  <div class="line"><i></i></div>
+  <ol>
+   <li><div class="ik"><svg><use href="#i-bell"/></svg></div><b>Напоминание в&nbsp;твоё время</b><span>В&nbsp;первый день ты&nbsp;пишешь план одной фразой. Её&nbsp;же&nbsp;видишь утром на&nbsp;экране.</span></li>
+   <li><div class="ik"><svg><use href="#i-sun"/></svg></div><b>Экран «Сегодня»</b><span>Номер дня и&nbsp;одна кнопка, чтобы&nbsp;начать. Никаких&nbsp;вопросов «что&nbsp;мне&nbsp;делать».</span></li>
+   <li><div class="ik"><svg><use href="#i-play"/></svg></div><b>Практика</b><span>Запись ведёт тебя, круг на&nbsp;экране мягко пульсирует. Телефон можно&nbsp;погасить.</span></li>
+   <li><div class="ik"><svg><use href="#i-heart"/></svg></div><b>Один вопрос</b><span>«Как&nbsp;ты&nbsp;сейчас?» от&nbsp;1&nbsp;до&nbsp;5. Отвечаешь за&nbsp;секунду, а&nbsp;по&nbsp;дням из&nbsp;этих цифр рисуется твоя&nbsp;линия.</span></li>
+   <li><div class="ik"><svg><use href="#i-check"/></svg></div><b>Отметка и&nbsp;серия</b><span>Дни складываются в&nbsp;цепочку. Пропустил день, продолжаешь с&nbsp;того&nbsp;же&nbsp;места.</span></li>
+  </ol>
+ </div>
+ <div class="card ins rv" style="margin-top:50px">
+  <div class="ik" style="margin:0"><svg><use href="#i-cal"/></svg></div>
+  <div><p style="font-size:16.5px;color:var(--ink)">Сводка 94&nbsp;исследований показала: связка «если X, то&nbsp;Y», заготовленная заранее, заметно поднимает шанс дойти до&nbsp;цели (d&nbsp;=&nbsp;0,65, эффект от&nbsp;среднего до&nbsp;большого). Поэтому первый день начинается с&nbsp;одной фразы плана, без&nbsp;всякой&nbsp;мотивации.</p><p class="src">Gollwitzer&nbsp;P.M., Sheeran&nbsp;P., Advances in Experimental Social Psychology, 2006</p></div>
+ </div>
+</div></section>
+
+<section class="sec" id="put"><div class="wrap">
+ <div class="glow t" style="width:520px;height:520px;right:-10%;top:0"></div>
+ <div class="split put-split" style="align-items:start">
+  <div class="rv">
+   <div class="kicker">10 · Маршрут</div>
+   <h2 class="put-h2">28&nbsp;дней с&nbsp;нарастающей нагрузкой</h2>
+   <p class="lead">Практика растёт постепенно, как&nbsp;тренировка в&nbsp;зале. Каждая новая запись чуть длиннее прежней и&nbsp;добавляет одно умение к&nbsp;тому, что&nbsp;уже получается. Одна и&nbsp;та&nbsp;же звучит несколько дней подряд: сначала навык закрепляется, потом начинается следующий&nbsp;уровень.</p>
+  </div>
+  <div class="rv d1">
+   <div class="stairs"><i style="--i:0;height:22%"></i><i style="--i:1;height:32%"></i><i style="--i:2;height:42%"></i><i style="--i:3;height:52%"></i><i style="--i:4;height:62%"></i><i style="--i:5;height:74%"></i><i style="--i:6;height:87%"></i><i style="--i:7;height:100%"></i></div>
+   <div class="stairs-l"><span>1-3</span><span>4-7</span><span>8-10</span><span>11-12</span><span>13-16</span><span>17-21</span><span>22-26</span><span>27-28</span></div>
+   <p class="src">Восемь ступеней по&nbsp;дням. Что&nbsp;на&nbsp;каждой, видно внутри&nbsp;кабинета.</p>
+  </div>
+ </div>
+</div></section>
+<section class="sec b2" id="knigi"><div class="wrap">
+ <div class="head rv">
+  <div class="kicker">11 · Пять книг</div>
+  <h2>Всё,&nbsp;что&nbsp;нужно&nbsp;понять, на&nbsp;одной полке</h2>
+  <p class="lead">Книги написаны заново для&nbsp;этого потока. Открываются в&nbsp;кабинете, скачиваются на&nbsp;телефон, остаются&nbsp;навсегда.</p>
+ </div>
+ <div class="fan rv" id="fan">
+  <img src="img2/obl-dofamin.webp" alt="Книга «Как вернуть вкус к обычной жизни»" loading="lazy" width="640" height="906">
+  <img src="img2/obl-treker-28.webp" alt="Трекер «Твои 28 дней на бумаге»" loading="lazy" width="640" height="906">
+  <img src="img2/obl-voprosy-i-otvety.webp" alt="Книга «Всё, что спрашивают на пути»" loading="lazy" width="640" height="906">
+  <img src="img2/obl-karta-puti.webp" alt="Карта пути на 28 дней" loading="lazy" width="640" height="906">
+  <img src="img2/obl-glavny-manual.webp" alt="Главный мануал «Протокол остановки ума»" loading="lazy" width="640" height="906">
+ </div>
+ <div class="pages">
+  <figure><img src="img2/str-gm-03.webp" alt="Страница главного мануала" loading="lazy" width="820" height="1160"><figcaption>Что&nbsp;говорит&nbsp;наука</figcaption></figure>
+  <figure><img src="img2/str-gm-05.webp" alt="Страница о внимании" loading="lazy" width="820" height="1160"><figcaption>Внимание&nbsp;тренируется</figcaption></figure>
+  <figure><img src="img2/str-tr-2.webp" alt="Трекер: замер на входе" loading="lazy" width="820" height="1160"><figcaption>Трекер · точка&nbsp;А</figcaption></figure>
+  <figure><img src="img2/str-gm-18.webp" alt="Часть третья" loading="lazy" width="820" height="1160"><figcaption>Часть III: путь по&nbsp;дням</figcaption></figure>
+ </div>
+ <div class="books">
+  <div class="card rv wide"><div class="ik"><svg><use href="#i-book"/></svg></div><div><b>Главный мануал · 34&nbsp;страницы</b><span>Наука, метод, путь&nbsp;28&nbsp;дней и&nbsp;то, что&nbsp;после&nbsp;него</span></div></div>
+  <div class="card rv d1"><div class="ik"><svg><use href="#i-q"/></svg></div><div><b>Вопросы и&nbsp;ответы</b><span>69&nbsp;разобранных вопросов, которые чаще всего возникают на&nbsp;пути</span></div></div>
+  <div class="card rv d2"><div class="ik"><svg><use href="#i-wave"/></svg></div><div><b>Дофамин</b><span>Почему ничего не&nbsp;хочется, и&nbsp;семь дней, чтобы вернулся вкус к&nbsp;жизни</span></div></div>
+  <div class="card rv d1"><div class="ik t"><svg><use href="#i-cal"/></svg></div><div><b>Трекер&nbsp;28&nbsp;дней</b><span>Замер на&nbsp;входе, четыре недели, итог на&nbsp;выходе. Одна ручка и&nbsp;пять минут в&nbsp;день</span></div></div>
+  <div class="card rv d2"><div class="ik t"><svg><use href="#i-road"/></svg></div><div><b>Карта пути</b><span>Весь маршрут на&nbsp;одном&nbsp;листе</span></div></div>
+ </div>
+</div></section>
+<section class="sec" id="otzyvy"><div class="wrap">
+ <div class="glow t" style="width:560px;height:560px;right:-10%;bottom:-10%"></div>
+ <div class="head rv">
+  <div class="kicker">12 · Отзывы</div>
+  <h2 class="m24">Отзывы участников</h2>
+  <p class="lead">Что пишут те, кто уже прошёл Протокол: про&nbsp;сон, тишину в&nbsp;голове и&nbsp;спокойные&nbsp;дни.</p>
+ </div>
+ <div class="chat-nav" aria-hidden="false"><button type="button" class="cn-prev" aria-label="Предыдущий отзыв"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button><button type="button" class="cn-next" aria-label="Следующий отзыв"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button></div>
+ <div class="chat-skr sk-row rv"><figure class="sk"><img src="img2/skr-otzyv-652.webp" alt="Отзыв участника в чате Протокола" width="760" height="1148" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-138.webp" alt="Отзыв участника в чате Протокола" width="760" height="898" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-588.webp" alt="Отзыв участника в чате Протокола" width="760" height="816" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-657.webp" alt="Отзыв участника в чате Протокола" width="760" height="816" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-245.webp" alt="Отзыв участника в чате Протокола" width="760" height="816" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-356.webp" alt="Отзыв участника в чате Протокола" width="760" height="816" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-255.webp" alt="Отзыв участника в чате Протокола" width="760" height="774" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-354.webp" alt="Отзыв участника в чате Протокола" width="760" height="982" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-658.webp" alt="Отзыв участника в чате Протокола" width="760" height="610" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-73.webp" alt="Отзыв участника в чате Протокола" width="760" height="526" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-536.webp" alt="Отзыв участника в чате Протокола" width="760" height="526" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-337.webp" alt="Отзыв участника в чате Протокола" width="760" height="486" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-249.webp" alt="Отзыв участника в чате Протокола" width="760" height="568" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-122.webp" alt="Отзыв участника в чате Протокола" width="760" height="444" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure><figure class="sk"><img src="img2/skr-otzyv-155.webp" alt="Отзыв участника в чате Протокола" width="760" height="444" loading="lazy"><button type="button" class="sk-more">Открыть целиком</button></figure></div>
+ <div class="chat-dots" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+ <script>(function(){var r=document.querySelector(".chat-skr"),d=document.querySelectorAll(".chat-dots i");if(!r)return;var f=r.querySelectorAll("figure");function k(){var c=r.scrollLeft+r.clientWidth/2,n=0,b=1e9;f.forEach(function(x,i){var m=Math.abs(x.offsetLeft-r.offsetLeft+x.offsetWidth/2-c);if(m<b){b=m;n=i}});return n}function u(){var n=k();d.forEach(function(x,i){x.classList.toggle("on",i===n)})}function go(s){var n=Math.max(0,Math.min(f.length-1,k()+s));r.scrollTo({left:f[n].offsetLeft-r.offsetLeft-(r.clientWidth-f[n].offsetWidth)/2,behavior:"smooth"})}r.addEventListener("scroll",u,{passive:true});var p=document.querySelector(".cn-prev"),q=document.querySelector(".cn-next");p&&p.addEventListener("click",function(){go(-1)});q&&q.addEventListener("click",function(){go(1)});d.forEach(function(x,i){x.addEventListener("click",function(){r.scrollTo({left:f[i].offsetLeft-r.offsetLeft-(r.clientWidth-f[i].offsetWidth)/2,behavior:"smooth"})})});u();document.querySelectorAll(".sk").forEach(function(f){var im=f.querySelector("img");function c(){if(im.naturalHeight/im.naturalWidth*f.clientWidth>f.clientHeight+4)f.classList.add("cut")}im.complete?c():im.addEventListener("load",c);f.querySelector(".sk-more").addEventListener("click",function(){var o=document.createElement("div");o.className="sk-lb";o.innerHTML="<img src=\""+im.src+"\" alt=\"\">";o.addEventListener("click",function(){o.remove()});document.body.appendChild(o)})});document.querySelectorAll(".ot-b").forEach(function(b){var p=b.querySelector("p");if(p.scrollHeight>p.clientHeight+4)b.classList.add("cut");b.querySelector(".ot-more").addEventListener("click",function(){b.classList.toggle("open");this.textContent=b.classList.contains("open")?"Свернуть":"Читать целиком"})})})();</script>
+</div></section>
+
+<section class="sec b2" id="darya"><div class="wrap author">
+ <div class="ph rv"><img src="img2/daria.webp" alt="Дарья Ростовцева" loading="lazy" width="900" height="900"></div>
+ <div class="rv d1">
+  <div class="kicker">13 · Кто&nbsp;ведёт</div>
+  <h2>Дарья Ростовцева</h2>
+  <div class="role">Сооснователь «Архитектуры&nbsp;сознания»</div>
+  <p class="lead">Практик на&nbsp;стыке нейробиологии, работы с&nbsp;телом и&nbsp;подсознанием. Больше десяти лет переводит то, что&nbsp;наука знает о&nbsp;мозге и&nbsp;гормонах, в&nbsp;простые практики на&nbsp;каждый&nbsp;день.</p>
+  <p style="margin-top:18px">Её&nbsp;программы: «Протокол остановки ума», «Код денег», «За&nbsp;пределами заболеваний», «Красота без&nbsp;оправданий» и&nbsp;другие. Всё, что&nbsp;в&nbsp;них есть, можно проверить на&nbsp;собственной нервной системе и&nbsp;почувствовать разницу&nbsp;самому.</p>
+  <div class="dst"><div><b>2000+</b><span>участников программ</span></div><div><b>10+</b><span>лет практики</span></div></div>
+ </div>
+</div></section>
+
+<section class="sec" id="komu"><div class="wrap">
+ <div class="head rv">
+  <div class="kicker">14 · Для&nbsp;кого</div>
+  <h2>Кому подойдёт Протокол</h2>
+ </div>
+ <div class="fit">
+  <div class="card yes rv"><div class="ik t"><svg><use href="#i-check"/></svg></div><h3>Заходи, если</h3><ul>
+   <li><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg><span>Узнал себя в&nbsp;первом блоке: голова не&nbsp;выключается, тревога фоном, внимание&nbsp;утекает</span></li>
+   <li><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg><span>Уже пробовал с&nbsp;приложениями или&nbsp;сам, но&nbsp;дольше недели не&nbsp;продержался</span></li>
+   <li><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg><span>Готов отдавать этому&nbsp;<span class="nh">15-20</span>&nbsp;минут в&nbsp;день, лучше утром и&nbsp;в&nbsp;одно&nbsp;время</span></li>
+   <li><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7"/></svg><span>Хочешь понимать механизм и&nbsp;видеть результат в&nbsp;цифрах</span></li>
+  </ul></div>
+  <div class="card no rv d1"><div class="ik" style="color:var(--rose);background:rgba(208,122,106,.12);border-color:rgba(208,122,106,.3)"><svg><use href="#i-x"/></svg></div><h3>Не&nbsp;подойдёт, если</h3><ul>
+   <li><svg viewBox="0 0 24 24"><path d="M7 7l10 10M17 7L7 17"/></svg><span>Ждёшь, что&nbsp;всё&nbsp;случится само, без&nbsp;ежедневных пятнадцати&nbsp;минут</span></li>
+   <li><svg viewBox="0 0 24 24"><path d="M7 7l10 10M17 7L7 17"/></svg><span>Ищешь обещание «мозг перестроится за&nbsp;месяц». Мы&nbsp;такого не&nbsp;обещаем, потому&nbsp;что&nbsp;наука этого не&nbsp;подтверждает</span></li>
+   <li><svg viewBox="0 0 24 24"><path d="M7 7l10 10M17 7L7 17"/></svg><span>Сейчас тяжело <span class="nh">по-настоящему</span>: бессонница, тревожное расстройство, депрессия. Это&nbsp;к&nbsp;врачу или&nbsp;психотерапевту, программа их&nbsp;не&nbsp;заменяет</span></li>
+  </ul></div>
+ </div>
+</div></section>
+<section class="sec" id="vhod"><div class="wrap">
+ <div class="glow a" style="width:600px;height:600px;right:-10%;top:-10%"></div>
+ <div class="head rv">
+  <div class="kicker">15 · Что&nbsp;входит</div>
+  <h2>Оплачиваешь&nbsp;один раз,&nbsp;пользуешься в&nbsp;любое время</h2>
+  <p class="lead">Поток стартует 3&nbsp;октября, все&nbsp;начинают в&nbsp;один день. Кабинет, записи и&nbsp;книги остаются у&nbsp;тебя, сколько бы&nbsp;времени ни&nbsp;прошло.</p>
+ </div>
+ <div class="val rv" style="margin:0 0 40px">
+  <div><b>15-20</b><span>минут в&nbsp;день, утром, по&nbsp;голосу&nbsp;Дарьи</span></div>
+  <div><b>65</b><span>страниц в&nbsp;пяти книгах, каждая цифра с&nbsp;источником</span></div>
+  <div><b>69</b><span>разобранных ситуаций в&nbsp;книге «Вопросы и&nbsp;ответы»</span></div>
+  <div><b>∞</b><span>доступ без&nbsp;срока, с&nbsp;телефона и&nbsp;компьютера</span></div>
+ </div>
+ <div class="offer solo">
+  <div class="inc rv">
+   <div><div class="ik"><svg><use href="#i-play"/></svg></div><span><b>28&nbsp;ежедневных практик</b>по&nbsp;<span class="nh">15-20</span>&nbsp;минут утром</span></div>
+   <div><div class="ik"><svg><use href="#i-mic"/></svg></div><span><b>Голос Дарьи</b>ведёт от&nbsp;начала до&nbsp;конца каждое&nbsp;занятие</span></div>
+   <div><div class="ik"><svg><use href="#i-devices"/></svg></div><span><b>Личный кабинет</b>телефон или&nbsp;компьютер, ставится как&nbsp;приложение</span></div>
+   <div><div class="ik"><svg><use href="#i-gauge"/></svg></div><span><b>Замер до&nbsp;и&nbsp;после</b>четыре шкалы, сдвиг виден в&nbsp;цифрах и&nbsp;на&nbsp;графике</span></div>
+   <div><div class="ik t"><svg><use href="#i-book"/></svg></div><span><b>Главный мануал, 34&nbsp;страницы</b>наука, метод, путь и&nbsp;что&nbsp;после&nbsp;него</span></div>
+   <div><div class="ik t"><svg><use href="#i-q"/></svg></div><span><b>Вопросы и&nbsp;ответы</b>69&nbsp;ситуаций, которые чаще всего случаются на&nbsp;пути, разобранных по&nbsp;одной</span></div>
+   <div><div class="ik t"><svg><use href="#i-wave"/></svg></div><span><b>Дофамин</b>отдельная книга и&nbsp;семь дней&nbsp;восстановления</span></div>
+   <div><div class="ik"><svg><use href="#i-cal"/></svg></div><span><b>Трекер на&nbsp;28&nbsp;дней</b>видно, как&nbsp;меняется состояние день за&nbsp;днём</span></div>
+   <div><div class="ik t"><svg><use href="#i-road"/></svg></div><span><b>Карта пути</b>весь маршрут на&nbsp;одном&nbsp;листе</span></div>
+   <div><div class="ik"><svg><use href="#i-bell"/></svg></div><span><b>Напоминание каждое утро</b>чтобы практика не&nbsp;потерялась среди&nbsp;дел</span></div>
+   <div><div class="ik t"><svg><use href="#i-users"/></svg></div><span><b>Закрытый чат участников</b>поток идёт вместе, с&nbsp;одного&nbsp;дня</span></div>
+   <div><div class="ik t"><svg><use href="#i-lock"/></svg></div><span><b>Доступ навсегда</b>открыл через год, всё&nbsp;на&nbsp;месте</span></div>
+  </div>
+ </div>
+ <div class="tarify" id="tarify">
+  <div class="price t1 rv">
+   <div class="lbl">Поток с&nbsp;3&nbsp;октября</div>
+   <h3>Протокол остановки ума</h3>
+   <div class="sum">3&nbsp;500&nbsp;₽</div>
+   <ul class="tic"><li><span class="ik"><svg><use href="#i-play"/></svg></span><span><b>28&nbsp;практик</b>голосом Дарьи, от&nbsp;простого к&nbsp;сложному</span></li><li><span class="ik"><svg><use href="#i-road"/></svg></span><span><b>28&nbsp;дней пути</b>день открывается сам, по&nbsp;<span class="nh">15-20</span>&nbsp;минут</span></li><li><span class="ik"><svg><use href="#i-gauge"/></svg></span><span><b>Замер до&nbsp;и&nbsp;после</b>четыре шкалы, сдвиг виден в&nbsp;цифрах</span></li><li><span class="ik"><svg><use href="#i-devices"/></svg></span><span><b>Личный кабинет</b>телефон или&nbsp;компьютер, ставится как&nbsp;приложение</span></li><li><span class="ik"><svg><use href="#i-book"/></svg></span><span><b>Пять книг</b>65&nbsp;страниц, у&nbsp;каждой цифры источник</span></li><li><span class="ik"><svg><use href="#i-users"/></svg></span><span><b>Закрытый канал потока</b>все начинают в&nbsp;один день</span></li><li><span class="ik"><svg><use href="#i-bell"/></svg></span><span><b>Напоминание каждое утро</b>чтобы практика не&nbsp;потерялась среди&nbsp;дел</span></li><li><span class="ik"><svg><use href="#i-lock"/></svg></span><span><b>Доступ навсегда</b>один платёж, подписки&nbsp;нет</span></li></ul>
+   <a class="btn btn-a" href="https://payform.ru/n0cF3Ij/" target="_blank" rel="noopener">Занять место в&nbsp;потоке<span class="ar"><svg viewBox="0 0 24 24"><path d="M5 12h13M13 6l6 6-6 6"/></svg></span></a>
+  </div>
+  <div class="price t2 rv d1">
+   <div class="lbl">С&nbsp;личной сессией</div>
+   <h3>Протокол и&nbsp;личная сессия с&nbsp;Дарьей</h3>
+   <div class="old"><s>18&nbsp;500&nbsp;₽</s><span>по&nbsp;отдельности: 3&nbsp;500 + 15&nbsp;000</span></div>
+   <div class="sum">9&nbsp;900&nbsp;₽</div>
+   <div class="save">выгода 8&nbsp;600&nbsp;₽</div>
+   <ul class="tic"><li><span class="ik"><svg><use href="#i-inf"/></svg></span><span><b>Всё, что входит в&nbsp;Протокол</b>весь состав, кабинет и&nbsp;пять книг</span></li><li><span class="ik"><svg><use href="#i-users"/></svg></span><span><b>Личная сессия с&nbsp;Дарьей</b>один на&nbsp;один, <span class="nh">60-90</span>&nbsp;минут, Zoom или&nbsp;Telegram</span></li><li><span class="ik"><svg><use href="#i-eye"/></svg></span><span><b>Разбор вашего вопроса</b>находите, что&nbsp;держит и&nbsp;откуда это&nbsp;взялось</span></li><li><span class="ik"><svg><use href="#i-play"/></svg></span><span><b>Запись встречи</b>видео и&nbsp;простые упражнения остаются у&nbsp;тебя</span></li><li><span class="ik"><svg><use href="#i-chat"/></svg></span><span><b>Как записаться</b>после оплаты напиши слово «СЕССИЯ» в&nbsp;<span class="nh"><a href="https://t.me/TheBodyMindCode_support" target="_blank" rel="noopener">@TheBodyMindCode_support</a>,</span> и&nbsp;мы&nbsp;подберём время</span></li></ul>
+   <a class="btn btn-a" href="https://payform.ru/3fcEtE6/" target="_blank" rel="noopener">Протокол и&nbsp;сессия<span class="ar"><svg viewBox="0 0 24 24"><path d="M5 12h13M13 6l6 6-6 6"/></svg></span></a>
+  </div>
+ </div>
+ <p class="note tar-note rv">Есть сомнения? <a href="https://t.me/TheBodyMindCode_support" target="_blank" rel="noopener">Напиши в&nbsp;поддержку</a></p>
+ <div class="steps4">
+  <div class="card rv"><div class="n">01</div><b>Оплата и&nbsp;канал</b><p>Оплачиваешь, и&nbsp;сразу приходит письмо с&nbsp;приглашением в&nbsp;канал&nbsp;потока.</p></div>
+  <div class="card rv d1"><div class="n">02</div><b>Кабинет 2&nbsp;октября</b><p>За&nbsp;день до&nbsp;старта на&nbsp;почту приходит вход: замер на&nbsp;входе, книги, план одной&nbsp;фразой.</p></div>
+  <div class="card rv d2"><div class="n">03</div><b>Старт&nbsp;3&nbsp;октября</b><p>Открывается первый день. Дальше по&nbsp;одному дню, каждое&nbsp;утро.</p></div>
+  <div class="card rv d3"><div class="n">04</div><b>После 28&nbsp;дней</b><p>Замер на&nbsp;выходе, и&nbsp;доступ остаётся: к&nbsp;практикам можно возвращаться в&nbsp;любое&nbsp;время.</p></div>
+ </div>
+</div></section>
+
+<section class="sec b2" id="voprosy"><div class="wrap">
+ <div class="head rv">
+  <div class="kicker">16 · Вопросы</div>
+  <h2 class="m28">То, что&nbsp;спрашивали чаще&nbsp;всего</h2>
+ </div>
+ <div class="faq rv">
+  <details><summary>Чем отличается формат с&nbsp;сессией?</summary><p>Протокол тот&nbsp;же, со&nbsp;всем составом. К&nbsp;нему добавляется личная встреча с&nbsp;Дарьей один на&nbsp;один, <span class="nh">60-90</span>&nbsp;минут онлайн: разбираете свой вопрос и&nbsp;находите, что&nbsp;держит. Отдельно такая сессия стоит 15&nbsp;000&nbsp;₽. Чтобы записаться, после оплаты напиши в&nbsp;поддержку @TheBodyMindCode_support слово «СЕССИЯ», и&nbsp;мы&nbsp;подберём время.</p></details>
+  <details><summary>Сколько времени это&nbsp;занимает в&nbsp;день?</summary><p>В&nbsp;среднем&nbsp;<span class="nh">15-20</span>&nbsp;минут утром. Этого достаточно: навык растёт от&nbsp;ежедневных повторений.</p></details>
+  <details><summary>Нужна ли подготовка?</summary><p>Нет. Путь начинается с&nbsp;самого простого, а&nbsp;голос ведёт тебя каждую минуту. Исследования, на&nbsp;которые мы&nbsp;опираемся, проводили как&nbsp;раз на&nbsp;людях без&nbsp;опыта.</p></details>
+  <details><summary>Я&nbsp;пропустил день. Начинать&nbsp;заново?</summary><p>Нет. Ты&nbsp;просто продолжаешь со&nbsp;своего дня. Исследования привычек показывают, что&nbsp;один пропуск ничего не&nbsp;ломает, главное вернуться на&nbsp;следующий&nbsp;день.</p></details>
+  <details><summary>Во&nbsp;время практики поднимается злость или&nbsp;лезут мысли. Это&nbsp;нормально?</summary><p>Да, и&nbsp;мы&nbsp;говорим об&nbsp;этом заранее. В&nbsp;книге «Вопросы и&nbsp;ответы» разобраны 69&nbsp;таких случаев из&nbsp;первого&nbsp;потока.</p></details>
+  <details><summary>Можно заниматься вечером?</summary><p>Главная практика лучше всего ложится на&nbsp;утро, в&nbsp;одно и&nbsp;то&nbsp;же&nbsp;время: утренние привычки в&nbsp;среднем крепче.</p></details>
+  <details><summary>Что&nbsp;будет после&nbsp;28&nbsp;дня?</summary><p>Все практики и&nbsp;книги остаются у&nbsp;тебя навсегда. Возвращаться к&nbsp;ним можно в&nbsp;любое время, в&nbsp;своём&nbsp;темпе.</p></details>
+  <details><summary>Я&nbsp;уже проходил Протокол. Мне это&nbsp;нужно?</summary><p>Да. Во&nbsp;второй раз практика идёт в&nbsp;разы эффективнее, а&nbsp;в&nbsp;этом потоке есть чат&nbsp;поддержки. Всё собрано в&nbsp;одном кабинете, есть замер до&nbsp;и&nbsp;после и&nbsp;пять новых книг. Условия для&nbsp;прошлых участников уточни в&nbsp;поддержке, ответим&nbsp;лично.</p></details>
+ </div>
+</div></section>
+
+<section class="sec final" id="final"><div class="wrap">
+ <div class="kicker" style="justify-content:center">Старт&nbsp;3&nbsp;октября</div>
+ <h2>Пятнадцать минут каждое утро, двадцать восемь дней, и&nbsp;тишина в&nbsp;голове становится навыком</h2>
+ <p class="lead">Кабинет откроет первый день сам. Тебе&nbsp;останется сесть и&nbsp;нажать&nbsp;«Начать».</p>
+ <a class="btn btn-a" href="#tarify">Выбрать формат участия<span class="ar"><svg viewBox="0 0 24 24"><path d="M5 12h13M13 6l6 6-6 6"/></svg></span></a>
+</div></section>
+
+<footer class="foot2">
+ <div class="glow t" style="width:600px;height:600px;right:-10%;bottom:-40%"></div>
+ <div class="wrap">
+  <div class="top">
+   <div class="brand">
+    <a class="logo" href="#top"><i></i>Архитектура сознания</a>
+    <p>Программы Дарьи Ростовцевой о&nbsp;мозге, теле и&nbsp;состоянии. Под&nbsp;каждой цифрой стоит&nbsp;исследование.</p>
+    <div class="sub"><a href="#tarify">Занять место в&nbsp;потоке</a><a href="https://t.me/TheBodyMindCode_support" target="_blank" rel="noopener">Поддержка</a></div>
+   </div>
+   <div><h4>Программа</h4><ul>
+    <li><a href="#mozg">Что&nbsp;происходит в&nbsp;голове</a></li><li><a href="#kabinet">Личный кабинет</a></li><li><a href="#put">Маршрут 28&nbsp;дней</a></li><li><a href="#knigi">Пять книг</a></li><li><a href="#otzyvy">Отзывы</a></li><li><a href="#voprosy">Вопросы</a></li>
+   </ul></div>
+   <div><h4>Старт&nbsp;3&nbsp;октября</h4><ul>
+    <li><a href="#tarify"><svg viewBox="0 0 24 24"><use href="#i-cal"/></svg>Что&nbsp;входит</a></li><li><a href="#komu"><svg viewBox="0 0 24 24"><use href="#i-check"/></svg>Кому подойдёт</a></li><li><a href="#darya"><svg viewBox="0 0 24 24"><use href="#i-mic"/></svg>Кто&nbsp;ведёт</a></li>
+   </ul></div>
+   <div><h4>Связь</h4><ul>
+    <li><a href="https://t.me/+oSuGhJQlsr4zYmQy" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><use href="#i-chat"/></svg><span class="nh">Телеграм-канал</span></a></li><li><a href="https://t.me/TheBodyMindCode_support" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><use href="#i-mail"/></svg>Поддержка</a></li><li><a href="https://thebodymindcode.ru/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><use href="#i-arrow"/></svg>thebodymindcode.ru</a></li>
+   </ul></div>
+  </div>
+  <p class="disc">Программа не&nbsp;относится к&nbsp;медицинским или&nbsp;психологическим услугам и&nbsp;не&nbsp;заменяет консультацию специалиста. При&nbsp;тревожном расстройстве, депрессии и&nbsp;хронической бессоннице нужен врач. Результаты участия&nbsp;индивидуальны.</p>
+  <div class="bot"><span>© 2026&nbsp;Архитектура сознания<i class="sep">&nbsp;·&nbsp;</i>ИП Ростовцева Дарья&nbsp;Валерьевна<i class="sep">&nbsp;·&nbsp;</i>ИНН&nbsp;241103415641</span><span><a href="https://thebodymindcode.ru/oferta/" target="_blank" rel="noopener">Публичная оферта</a><i class="sep">&nbsp;·&nbsp;</i><a href="https://thebodymindcode.ru/politika/" target="_blank" rel="noopener">Политика конфиденциальности</a></span></div>
+ </div>
+</footer>
+<script>
+/* Внимание: мысли всплывают словами, внимание уходит к ним, замечает, возвращается. Каждый возврат это повторение. */
+(function(){
+ var cv = document.getElementById('vnim'); if (!cv) return;
+ var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+ var ctx = cv.getContext('2d'), W = 600, H = 400, s = 1, dpr = 1;
+ var MYSLI = ['что ответить в чате', 'завтра встреча в десять', 'надо было сказать иначе', 'а если не получится', 'заказать воду', 'она странно посмотрела', 'счёт за свет', 'почему я это сказал', 'что на ужин', 'позвонить маме', 'в прошлый раз не вышло', 'ещё одну задачу'];
+ var FC = 14, FB = 15, FZ = 13, C = {x:300, y:215}, A = {x:300, y:215, tx:300, ty:215}, faza = 0, T = 0, mysl = null, n = 0, plus = [], zvon = 0, dt = 0, last = 0;
+ var cnt = document.getElementById('vnimn');
+ function rr(x, y, w, h, r){ ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r); ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath(); }
+ function nova(){ var side = Math.random() < .5 ? -1 : 1; var t = MYSLI[Math.floor(Math.random() * MYSLI.length)];
+  var y = side < 0 ? 120 + Math.random() * 140 : 238 + Math.random() * 26; var x = side < 0 ? 90 + Math.random() * 90 : 420 + Math.random() * 90; ctx.font = '600 ' + FB + 'px Manrope, sans-serif'; var hw = ctx.measureText(t).width / 2 + 17; x = Math.max(hw + 10, Math.min(W - hw - 10, x)); mysl = {t:t, x:x, y:y, a:0, w:0, vy:-3 - Math.random() * 2, hit:0}; }
+ function kadr(ts){ if (!last) last = ts; dt = Math.min(.05, (ts - last) / 1000); last = ts; T += dt;
+  ctx.setTransform(dpr * s, 0, 0, dpr * s, 0, 0); ctx.clearRect(0, 0, W, H);
+  // центр: дело
+  var pulse = 1 + .04 * Math.sin(T * 2.2);
+  ctx.beginPath(); ctx.arc(C.x, C.y, 62 * pulse, 0, 7); ctx.strokeStyle = 'rgba(240,194,122,.55)'; ctx.setLineDash([4, 7]); ctx.lineWidth = 1.6; ctx.stroke(); ctx.setLineDash([]); ctx.beginPath(); ctx.arc(C.x, C.y, 30, 0, 7); ctx.strokeStyle = 'rgba(240,194,122,.35)'; ctx.lineWidth = 1; ctx.stroke();
+  var g = ctx.createRadialGradient(C.x, C.y, 4, C.x, C.y, 70); g.addColorStop(0, 'rgba(240,194,122,.26)'); g.addColorStop(1, 'rgba(240,194,122,0)'); ctx.fillStyle = g; ctx.beginPath(); ctx.arc(C.x, C.y, 60, 0, 7); ctx.fill();
+  ctx.fillStyle = 'rgba(234,241,239,.92)'; ctx.font = '700 ' + FC + 'px Manrope, sans-serif'; ctx.textAlign = 'center'; ctx.fillText('то, что ты делаешь сейчас', C.x, C.y + 78 + FC * .8);
+  // мысль
+  if (faza === 0) { if (Math.random() < dt * .8) { nova(); faza = 1; } }
+  if (mysl) { mysl.a = Math.min(1, mysl.a + dt * 2.5); mysl.y += mysl.vy * dt; ctx.font = '600 ' + FB + 'px Manrope, sans-serif'; var tw = ctx.measureText(mysl.t).width + 34; mysl.w = tw; var bh = Math.round(FB * 2.5);
+   var bx = mysl.x - tw / 2, by = mysl.y - bh / 2; ctx.globalAlpha = mysl.a * (faza === 4 ? Math.max(0, 1 - mysl.hit) : 1);
+   rr(bx, by, tw, bh, bh / 2); ctx.fillStyle = 'rgba(234,241,239,.1)'; ctx.fill(); ctx.lineWidth = 1; ctx.strokeStyle = faza === 3 || faza === 4 ? 'rgba(240,194,122,.9)' : 'rgba(234,241,239,.28)'; ctx.stroke();
+   ctx.fillStyle = 'rgba(234,241,239,.92)'; ctx.textAlign = 'center'; ctx.fillText(mysl.t, mysl.x, mysl.y + FB * .35); ctx.globalAlpha = 1;
+   // ниточка притяжения
+   if (faza === 1 || faza === 2) { ctx.beginPath(); ctx.moveTo(mysl.x, mysl.y); ctx.lineTo(A.x, A.y); ctx.strokeStyle = 'rgba(240,194,122,.18)'; ctx.setLineDash([2, 5]); ctx.stroke(); ctx.setLineDash([]); } }
+  // внимание
+  if (faza === 1) { A.tx = mysl.x; A.ty = mysl.y; if (mysl.a >= 1 && Math.random() < dt * 1.6) faza = 2; }
+  if (faza === 2) { A.x += (mysl.x - A.x) * dt * 1.6; A.y += (mysl.y - A.y) * dt * 1.6; if (Math.hypot(mysl.x - A.x, mysl.y - A.y) < 10) { faza = 3; zvon = 0; } }
+  if (faza === 3) { zvon += dt; A.x += (mysl.x - A.x) * dt * 3; A.y += (mysl.y - A.y) * dt * 3; if (zvon > .9) { faza = 4; mysl.hit = 0; } }
+  if (faza === 4) { mysl.hit += dt * 1.6; A.x += (C.x - A.x) * dt * 4.5; A.y += (C.y - A.y) * dt * 4.5; if (Math.hypot(C.x - A.x, C.y - A.y) < 4) { faza = 0; n++; if (cnt) cnt.textContent = n; plus.push({x:C.x + 40, y:C.y - 40, a:1}); mysl = null; } }
+  // «заметил»: кольцо вокруг мысли
+  if (faza === 3 && mysl) { ctx.beginPath(); ctx.arc(mysl.x, mysl.y, 24 + zvon * 40, 0, 7); ctx.strokeStyle = 'rgba(240,194,122,' + Math.max(0, .7 - zvon * .7) + ')'; ctx.lineWidth = 1.5; ctx.stroke();
+   ctx.fillStyle = 'rgba(240,194,122,.95)'; ctx.font = '700 ' + FZ + 'px Manrope, sans-serif'; ctx.fillText('заметил', mysl.x, mysl.y - 30); }
+  // точка внимания со шлейфом
+  ctx.shadowColor = 'rgba(240,194,122,.9)'; ctx.shadowBlur = 22; ctx.beginPath(); ctx.arc(A.x, A.y, 9, 0, 7); ctx.fillStyle = '#F0C27A'; ctx.fill(); ctx.shadowBlur = 0; ctx.beginPath(); ctx.arc(A.x, A.y, 4, 0, 7); ctx.fillStyle = '#fff'; ctx.fill();
+  // +1
+  for (var i = plus.length - 1; i >= 0; i--) { var p = plus[i]; p.y -= dt * 40; p.a -= dt * .9; if (p.a <= 0) { plus.splice(i, 1); continue; } ctx.globalAlpha = p.a; ctx.fillStyle = '#F0C27A'; ctx.font = '700 26px Unbounded, sans-serif'; ctx.textAlign = 'left'; ctx.fillText('+1', p.x, p.y); ctx.globalAlpha = 1; }
+  if (!reduce) requestAnimationFrame(kadr); }
+ function razmer(){ s = cv.clientWidth / W; dpr = Math.min(2, devicePixelRatio || 1); cv.width = W * s * dpr; cv.height = H * s * dpr; /* на узком экране канвас сжат, компенсируем кегль подписей, чтобы на экране было ~11px */ var k = s < .8 ? .8 / s : 1; FC = Math.round(14 * Math.min(1.6, k)); FB = Math.round(15 * Math.min(1.2, k)); FZ = Math.round(13 * Math.min(1.5, k)); }
+ razmer(); addEventListener('resize', razmer); requestAnimationFrame(kadr);
+})();
+</script>
+<script>
+/* Мозг: режимы сети покоя. Настоящий снимок, сети поверх (Raichle 2001, Brewer 2011). */
+(function(){
+ var b = document.getElementById('mz'), me = document.getElementById('brainmeter'); if (!b) return;
+ var V = {rest:92, task:28, trained:44};
+ window.brainMode = function(m){ b.setAttribute('data-m', m); if (me) me.style.width = V[m] + '%'; };
+ brainMode('rest');
+})();
+</script>
+<script>
+(function(){
+ var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  // появление
+ var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }); }, {threshold:.12, rootMargin:'0px 0px -40px 0px'});
+ document.querySelectorAll('.rv, .sec').forEach(function(el){ io.observe(el); });
+ // счётчики
+ function schet(el){ var n = parseFloat(el.getAttribute('data-n')), f = parseInt(el.getAttribute('data-f') || '0', 10), t0 = null, small = el.querySelector('small'), suf = small ? small.outerHTML : '';
+  function kadr(t){ if (!t0) t0 = t; var p = Math.min(1, (t - t0) / 1600); p = 1 - Math.pow(1 - p, 3); var v = (n * p).toFixed(f).replace('.', ','); el.innerHTML = v + suf; if (p < 1) requestAnimationFrame(kadr); }
+  requestAnimationFrame(kadr); }
+ var cio = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting) { schet(e.target); cio.unobserve(e.target); } }); }, {threshold:.5});
+ document.querySelectorAll('[data-n]').forEach(function(el){ cio.observe(el); });
+ // чек-лист
+ var chk = document.getElementById('chk'), chkn = document.getElementById('chkn'), chkt = document.getElementById('chkt');
+ var otvety = ['Ответ появится здесь.',
+  'Один пункт. Голова в&nbsp;целом слушается, но&nbsp;у&nbsp;неё уже есть свой фон. Дальше про&nbsp;то, откуда он берётся.',
+  'Два пункта. У&nbsp;этого есть адрес: сеть в&nbsp;мозге с&nbsp;режимом по&nbsp;умолчанию. Смотри ниже.',
+  'Три пункта, половина списка. Почти половину дня так живёт каждый, и&nbsp;это измерено.',
+  'Четыре пункта. Голова работает на&nbsp;тебя меньше, чем сама на&nbsp;себя. И&nbsp;это тренируется.',
+  'Пять пунктов. С&nbsp;такими же описаниями люди приходили в&nbsp;первый поток. Читай, что&nbsp;было дальше.',
+  'Все шесть. Значит, ты&nbsp;уже пробовал и&nbsp;знаешь, где ломается. Протокол построен ровно вокруг этого места.'];
+ if (chk) chk.addEventListener('change', function(){ var k = chk.querySelectorAll('input:checked').length; chkn.textContent = k; chkt.innerHTML = otvety[k]; });
+ // мозг: режимы
+ var dmnT = {rest:['Ты&nbsp;сел отдохнуть, а&nbsp;сеть включилась на&nbsp;полную','Пока у&nbsp;тебя нет дела, эти области работают ярче всего: медиальная префронтальная кора спереди, задняя поясная и&nbsp;предклинье сзади. Именно сюда уходят мысли по&nbsp;кругу, пересказ дня и&nbsp;тревога о&nbsp;завтра. Чем&nbsp;чаще человек улетает мыслями, тем ярче у&nbsp;него горит эта&nbsp;сеть в&nbsp;сканере.','Raichle&nbsp;M.E.&nbsp;et&nbsp;al., PNAS, 2001 · Mason&nbsp;M.F.&nbsp;et&nbsp;al., Science, 2007'],
+  task:['Взялся за&nbsp;дело, и&nbsp;сеть притихла','Как&nbsp;только появляется конкретная задача, сеть покоя затихает, а&nbsp;включаются лобные и&nbsp;теменные зоны контроля. Поэтому в&nbsp;деле голова тише, чем&nbsp;в&nbsp;выходной на&nbsp;диване. Навык, который тренирует протокол, делает то&nbsp;же&nbsp;самое по&nbsp;твоему решению, даже когда дела нет.','Raichle&nbsp;M.E.&nbsp;et&nbsp;al., PNAS, 2001'],
+  trained:['У&nbsp;опытных практикующих сеть покоя тише даже в&nbsp;покое','В&nbsp;сканере главные узлы сети покоя у&nbsp;них менее активны, чем&nbsp;у&nbsp;новичков, а&nbsp;задняя поясная кора сильнее связана с&nbsp;областями самонаблюдения и&nbsp;контроля. Причём и&nbsp;во&nbsp;время практики, и&nbsp;в&nbsp;обычном покое. За&nbsp;этим стоят годы практики, и&nbsp;путь к&nbsp;такому начинается с&nbsp;первого повторения.','Brewer&nbsp;J.A.&nbsp;et&nbsp;al., PNAS, 2011 · Garrison&nbsp;K.A.&nbsp;et&nbsp;al., 2015']};
+ document.querySelectorAll('#brainsw button').forEach(function(b){ b.addEventListener('click', function(){ var m = b.getAttribute('data-m'); document.querySelectorAll('#brainsw button').forEach(function(x){ x.classList.toggle('on', x === b); });
+  if (window.brainMode) brainMode(m); document.getElementById('dmnh').innerHTML = dmnT[m][0]; document.getElementById('dmnp').innerHTML = dmnT[m][1]; document.getElementById('dmns').innerHTML = dmnT[m][2]; }); });
+ // поле точек
+ var tp = document.getElementById('tochki');
+ if (tp) { var frag = document.createDocumentFragment(), idx = []; for (var i = 0; i < 1000; i++) { frag.appendChild(document.createElement('i')); idx.push(i); }
+  tp.appendChild(frag); for (var j = idx.length - 1; j > 0; j--) { var r = Math.floor(Math.random() * (j + 1)); var t = idx[j]; idx[j] = idx[r]; idx[r] = t; }
+  var tio = new IntersectionObserver(function(es){ if (es[0].isIntersecting) { tio.disconnect(); var k = 0; var tm = setInterval(function(){ for (var q = 0; q < 8 && k < 469; q++, k++) tp.children[idx[k]].classList.add('a'); if (k >= 469) { clearInterval(tm); if (!reduce) zhivoe(); } }, reduce ? 0 : 16); } }, {threshold:.3}); tio.observe(tp);
+  // поле живёт: одни лампочки гаснут, другие загораются, 469 горящих держится
+  function zhivoe(){ setInterval(function(){ for (var q = 0; q < 3; q++) { var on = idx[Math.floor(Math.random() * 469)], off = idx[469 + Math.floor(Math.random() * 531)]; var t = idx.indexOf(on), u = idx.indexOf(off); idx[t] = off; idx[u] = on; tp.children[on].classList.remove('a'); tp.children[off].classList.add('a'); } }, 140); } }
+ // сто человек
+ var ly = document.getElementById('lyudi'); if (ly) { for (var i = 0; i < 100; i++) ly.appendChild(document.createElement('i'));
+  var lio = new IntersectionObserver(function(es){ if (es.some(function(e){ return e.isIntersecting; })) { lio.disconnect(); var ii = [], q; for (q = 0; q < 100; q++) ii.push(q); ii.sort(function(){ return Math.random() - .5; });
+   var k = 0, tm = setInterval(function(){ if (k >= 96) { clearInterval(tm); setTimeout(function(){ ly.children[ii[96]].classList.add('g'); }, 900); return; } ly.children[ii[k++]].classList.add('g'); }, 40); } }, {threshold:.5}); lio.observe(ly); }
+ // 1.0 / 2.0
+ var vsg = document.getElementById('vsgrid');
+ document.querySelectorAll('#vssw button').forEach(function(b){ b.addEventListener('click', function(){ document.querySelectorAll('#vssw button').forEach(function(x){ x.classList.toggle('on', x === b); }); vsg.classList.toggle('two', b.getAttribute('data-v') === 'two'); }); });
+ var vsio = new IntersectionObserver(function(es){ if (es.some(function(e){ return e.isIntersecting; })) { vsio.disconnect(); setTimeout(function(){ if (!vsg.classList.contains('two')) document.querySelector('#vssw [data-v="two"]').click(); }, 1800); } }, {threshold:.15});
+ if (vsg) vsio.observe(vsg);
+ var fg = document.getElementById('fgrid');
+ document.querySelectorAll('#fsw button').forEach(function(b){ b.addEventListener('click', function(){ document.querySelectorAll('#fsw button').forEach(function(x){ x.classList.toggle('on', x === b); }); fg.classList.toggle('two', b.getAttribute('data-v') === 'two'); }); });
+ var fio2 = new IntersectionObserver(function(es){ if (es.some(function(e){ return e.isIntersecting; })) { fio2.disconnect(); setTimeout(function(){ if (!fg.classList.contains('two')) document.querySelector('#fsw [data-v="two"]').click(); }, 2000); } }, {threshold:.15});
+ if (fg) fio2.observe(fg);
+ // галерея
+ var g = document.getElementById('gal');
+ document.querySelectorAll('[data-g]').forEach(function(b){ b.addEventListener('click', function(){ var f = g.querySelector('figure'); var w = f ? f.getBoundingClientRect().width + 28 : 300; g.scrollBy({left: w * parseInt(b.getAttribute('data-g'), 10), behavior:'smooth'}); }); });
+ // маршрут
+ var route = document.getElementById('route'); if (route) { var start = {1:1,2:1,3:1,4:1,8:1,13:1,17:1,22:1,27:1}, kart = {2:1,3:1,8:1,13:1,17:1,20:1,22:1,24:1}; for (var d = 1; d <= 28; d++) { var c = document.createElement('i'); c.textContent = d; c.className = (start[d] ? 's' : '') ; c.style.transitionDelay = (d * 45) + 'ms'; route.appendChild(c); } }
+ // веер книг
+ var fan = document.getElementById('fan');
+ function veer(){ var im = fan.querySelectorAll('img'), m = im.length, wide = innerWidth > 680; im.forEach(function(el, i){ var k = i - (m - 1) / 2; el.style.transform = 'translateX(' + (k * (wide ? 92 : innerWidth <= 360 ? 22 : 30)) + 'px) rotate(' + (k * (wide ? 7 : 5)) + 'deg)'; el.style.zIndex = 10 - Math.abs(Math.round(k)); }); }
+ if (fan) { var fio = new IntersectionObserver(function(es){ if (es[0].isIntersecting) { veer(); fio.disconnect(); } }, {threshold:.3}); fio.observe(fan); addEventListener('resize', function(){ if (fan.classList.contains('in')) veer(); }); }
+ // поле мыслей на первом экране
+ var cv = document.getElementById('pole');
+ if (cv && !reduce) { var ctx = cv.getContext('2d'), W, H, P = [], mx = -1e9, my = -1e9;
+  function razmer(){ W = cv.width = cv.offsetWidth * devicePixelRatio; H = cv.height = cv.offsetHeight * devicePixelRatio; P = []; var N = Math.round(W * H / (devicePixelRatio * devicePixelRatio) / 9000);
+   for (var i = 0; i < N; i++) P.push({x: Math.random() * W, y: Math.random() * H, vx: (Math.random() - .5) * .35, vy: (Math.random() - .5) * .35, r: (Math.random() * 1.6 + .6) * devicePixelRatio, a: Math.random() * Math.PI * 2}); }
+  razmer(); addEventListener('resize', razmer);
+  cv.parentElement.addEventListener('pointermove', function(e){ var b = cv.getBoundingClientRect(); mx = (e.clientX - b.left) * devicePixelRatio; my = (e.clientY - b.top) * devicePixelRatio; });
+  function ris(){ ctx.clearRect(0, 0, W, H);
+   for (var i = 0; i < P.length; i++) { var p = P[i]; p.a += .01; p.x += p.vx + Math.cos(p.a) * .15; p.y += p.vy + Math.sin(p.a) * .15;
+    var dx = p.x - mx, dy = p.y - my, dd = dx * dx + dy * dy; if (dd < 22000 * devicePixelRatio) { p.x += dx * .012; p.y += dy * .012; }
+    if (p.x < 0) p.x = W; if (p.x > W) p.x = 0; if (p.y < 0) p.y = H; if (p.y > H) p.y = 0;
+    ctx.beginPath(); ctx.arc(p.x, p.y, p.r, 0, 7); ctx.fillStyle = 'rgba(240,194,122,' + (0.18 + 0.35 * Math.abs(Math.sin(p.a))) + ')'; ctx.fill(); }
+   ctx.strokeStyle = 'rgba(143,214,206,.07)'; ctx.lineWidth = devicePixelRatio;
+   for (var i = 0; i < P.length; i++) for (var j = i + 1; j < P.length; j++) { var a = P[i], b = P[j], q = (a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y); if (q < 14000 * devicePixelRatio) { ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke(); } }
+   requestAnimationFrame(ris); }
+  ris(); }
+})();
+</script>
+</body>
+</html>
